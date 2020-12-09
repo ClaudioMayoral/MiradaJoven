@@ -1,0 +1,37 @@
+<div class="row" *ngIf="showBack">
+  <div class="col mt-2">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a [routerLink]="['/home']">Inicio</a>
+        </li>
+        <li class="breadcrumb-item" *ngFor="let item of path_routes">
+          <a [routerLink]="[item.route]">{{ item.title }}</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">{{current_route}}</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+<div class="row pt-2 pb-3 px-sm-2 px-md-3 px-lg-5 d-flex justify-content-between">
+  <div class="col-lg-4 col-md-4 col-sm-6 col-6 mb-2 px-sm-2 px-md-3 px-lg-5 pt-md-3" style="max-width: 350px;" *ngFor="let card of data">
+    <ng-container *ngIf="card.enabled;else disabled">
+      <div class="card text-center option-cards-custom rounded-0 border-0" style="align-items: center;"  [routerLink]="card.route" [ngStyle]="{'background-color': card.bgColor}">
+        <img class="card-img-top pt-2" [src]="card.icon" style="width: 35%;">
+        <div class="card-body p-2">
+          <h5 class="card-title" style="font-size: 1.25rem;line-height: 1.2; color:white">{{card.title}}</h5>
+          <h6 class="card-text" style="color:white; font-weight: 400;">{{card.content}}</h6>
+        </div>
+      </div>
+    </ng-container>
+    <ng-template #disabled>
+      <div class="card text-center option-cards-custom rounded-0 border-0" style="align-items: center;" [ngStyle]="{'background-color': card.bgColor}">
+        <img class="card-img-top pt-2" [src]="card.icon" style="width: 11vw;">
+        <div class="card-body p-2">
+          <h5 class="card-title" style="font-size: 1.25rem;line-height: 1.2; color:white">{{card.title}}</h5>
+          <p class="card-text" style="color:white">{{card.content}}</p>
+        </div>
+      </div>
+    </ng-template>
+  </div>
+</div>

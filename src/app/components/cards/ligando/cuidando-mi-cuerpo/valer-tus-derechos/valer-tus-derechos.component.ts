@@ -1,0 +1,35 @@
+import { Component, OnInit } from '@angular/core';
+import  *  as  contents  from  'src/assets/contents/contents.data.json';
+import { PathRoute } from 'src/app/components/common/article/article.component';
+import { CardsBase } from '../../../cards.base';
+import { HttpClient } from '@angular/common/http';
+
+@Component({
+  selector: 'app-valer-tus-derechos',
+  templateUrl: './valer-tus-derechos.component.html',
+  styleUrls: ['./valer-tus-derechos.component.scss'],
+})
+export class ValerTusDerechosComponent extends CardsBase implements OnInit {
+    contents:any;
+    path:PathRoute[];
+  
+    constructor(http:HttpClient) {
+        super(http);
+      }
+
+    ngOnInit() {
+        this.loadContent('haz_valer_tus_derechos').subscribe(
+            response => this.contents = response
+        );
+        this.path = [
+            {
+                title: "Amigxs o novixs",
+                route: "/como-me-siento/amigxs-o-novixs"
+            },
+            {
+                title: "Cuidando mi cuerp@",
+                route: "/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo"
+            }
+        ]
+    }
+}

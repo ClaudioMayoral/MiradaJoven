@@ -1,0 +1,300 @@
+<div class="row justify-content-center">
+  <ngb-carousel *ngIf="images">
+    <ng-template ngbSlide >
+      <div class="picsum-img-wrapper">
+        <div *showItSizes="{min:551}">
+          <picture>
+            <img class="img-fluid" [src]="images[0]" style="width: 100%;">
+          </picture>
+        </div>
+        <div *showItSizes="{max:550}">
+          <picture>
+            <img class="img-fluid" [src]="images[1]" style="width: 100%;">
+          </picture>
+        </div>
+      </div>
+      <div class="carousel-caption">
+        <h3 class="text-white">Bienvenid@</h3>
+        <p class="text-white">a Mirada Joven</p>
+        <a [routerLink]="['/acerca-nosotros']">
+        <button href="" class="btn btn-primary">Leer</button>
+        </a>
+      </div>
+    </ng-template>
+  <!--<ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <div *showItSizes="{min:551}">
+          <picture>
+            <img class="img-fluid" [src]="images[4]" style="width: 100%;">
+          </picture>
+        </div>
+        <div *showItSizes="{max:550}">
+          <picture>
+            <img class="img-fluid" [src]="images[5]" style="width: 100%;">
+          </picture>
+        </div>
+      </div>
+      <div class="carousel-caption">
+        <h3 class="text-white"></h3>
+        <p class="text-white"></p>
+        <a href="https://www.globalmuners.org/75yamun/" class="btn btn-primary" style="color:white; text-decoration: none;">Leer</a>
+      </div>
+    </ng-template>-->
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <div *showItSizes="{min:551}">
+          <picture>
+            <img class="img-fluid" [src]="images[2]" style="width: 100%;">
+          </picture>
+        </div>
+        <div *showItSizes="{max:550}">
+          <picture>
+            <img class="img-fluid" [src]="images[3]" style="width: 100%;">
+          </picture>
+        </div>
+      </div>
+      <div class="carousel-caption">
+        <h3 class="text-white">Covid-19</h3>
+        <p class="text-white">Una mirada a la pandemia</p>
+        <a  [routerLink]="['/under-construction']">
+          <button href="" class="btn btn-primary">Leer</button>
+        </a>
+      </div>
+    </ng-template>
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <div *showItSizes="{min:551}">
+          <picture>
+            <img class="img-fluid" [src]="images[4]" style="width: 100%;">
+          </picture>
+        </div>
+        <div *showItSizes="{max:550}">
+          <picture>
+            <img class="img-fluid" [src]="images[5]" style="width: 100%;">
+          </picture>
+        </div>
+      </div>
+      <div class="carousel-caption">
+        <h3 class="text-white"></h3>
+        <p class="text-white"></p>
+        <a  href="../../../assets/doc/Cuaderno_yo_decido_digital.pdf" download>
+          <button href="" class="btn btn-primary">Leer</button>
+        </a>
+      </div>
+    </ng-template>
+  </ngb-carousel>
+</div>
+
+<!--Banner temporal para concurso-->
+<div *showItSizes="{min:701}" class="row bg-white">
+  <picture style="width: 100%;height: 100%;">
+    <a [routerLink]="['/concurso']">
+    <img  class="img-fluid" src="../../../assets/banners/concursoweb.png" style="width: 100%;height: 100%;">
+  </a>
+  </picture>
+</div>
+
+<div *showItSizes="{min:100, max:700}" class="row bg-white" >
+  <picture style="width: 100%;height: 100%;">
+    <a [routerLink]="['/concurso']">
+    <img  class="img-fluid" src="../../../assets/banners/concursomobil.png" style="width: 100%;height: 100%;">
+  </a>
+  </picture>
+</div>
+
+<div *showItSizes="{min:701}" class="row bg-white">
+  <picture style="width: 100%;height: 100%;">
+    <img  class="img-fluid" src="../../../assets/banners/como-te-sientes-expanded.jpg" style="width: 100%;height: 100%;">
+  </picture>
+</div>
+
+<div *showItSizes="{min:100, max:700}" class="row bg-white" style="height: 200px;">
+  <picture style="width: 100%;height: 100%;">
+    <img  class="img-fluid" src="../../../assets/banners/como-te-sientes-old.png" style="width: 100%;height: 100%;">
+  </picture>
+</div>
+
+<div class="row">
+  <div class="col">
+    <app-option-cards header="¿Comó te sientes hoy?"  [data]="cards"></app-option-cards>
+  </div>
+</div>
+<div class="row bg-white text-center py-3">
+  <div class="col">
+    <h5>Mirada Joven TV</h5>
+    <div class="container">
+      <div class="embed-responsive embed-responsive-16by9 rounded">
+        <iframe width="100%" src="https://www.youtube.com/embed/QWG8POnCEp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row bg-white text-center py-3">
+  <div class="col-12 text-center">
+    <h5>Herramientas para ti</h5>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/cualquier-pregunta.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Cualquier pregunta es válida</h6>
+        <p class="mb-2">Un gran equipo médico  responderá  a tus dudas de forma confidencial y certera.</p>
+        <div class="row">
+            <a class="mx-auto" [routerLink]="['/1doc3']">
+            <span class="badge badge-primary py-1 px-3">Preguntar</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/orientaSex.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Línea de ayuda OrientaSEX</h6>
+        <p class="mb-2">Infórmate de manera gratuita y confidencial: ¡es la mejor forma de prevenir!</p>
+        <div class="row">
+          <a class="mx-auto" href="tel:01800-00-77-200">
+            <span class="badge badge-primary py-1 px-3">Llamar</span>
+          </a>
+          <a class="mx-auto" href="https://api.whatsapp.com/send?phone=525579995957">
+            <span class="badge badge-primary py-1 px-3">WhatsApp</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/planificatel.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Línea telefónica</h6>
+        <p class="mb-2">Resuelve tus dudas sobre salud sexual y reproductiva.</p>
+        <div class="row">
+          <a class="mx-auto" href="tel:800-624-64-64">
+            <span class="badge badge-primary py-1 px-3">Llamar</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/gendes.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Línea de emergencia para hombres</h6>
+        <p class="mb-2">Si durante este periodo de cuarentena en casa, te sientes enojado, frustrado, molesto, triste o en tensión. Llama a GENDES, disponible las 24 horas.</p>
+        <div class="row">
+          <a class="mx-auto" href="tel:55-52-64-20-11">
+            <span class="badge badge-primary py-1 px-3">Llamar</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/servicios-2.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Servicios de salud cerca de ti</h6>
+        <p class="mb-2">Encuentra un servicio amigable de salud sexual especializado en jóvenes como tú.</p>
+        <div class="row">
+          <a class="mx-auto" [routerLink]="['/servicios-amigables']">
+            <span class="badge badge-primary py-1 px-3">Ubicar</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-12 px-2">
+    <div class="media py-2 px-3 mb-1" style="background-color: #edf1f7;">
+      <img class="mr-3 my-auto" src="../../../assets/icon/calendario-menstrual.svg" style="width: 130px;">
+      <div class="media-body">
+        <h6>Calendario menstrual</h6>
+        <p class="mb-2">Calcula cuales son los días fértiles o de ovulación.</p>
+        <div class="row">
+          <a class="mx-auto" href="https://flo.health/es">
+            <span class="badge badge-primary py-1 px-3">Calcular</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row bg-white text-center py-3">
+  <div class="col">
+    <div class="container">
+      <h5 class="card-title">¡Síguenos!</h5>
+      <div class="row d-flex justify-content-center">
+        <div class="col">
+            <a href="https://www.facebook.com/MiradaJovenOficial/ ">
+              <img class="my-auto" src="../../../assets/icon/icons8-facebook.svg" style="width: 50%;">
+            </a>
+        </div>
+        <div class="col">
+          <a href="https://twitter.com/miradajoven_mx"> 
+            <img class="my-auto" src="../../../assets/icon/icons8-twitter.svg" style="width: 50%;">
+          </a>
+      </div>
+      <div class="col">
+        <a href="https://www.instagram.com/miradajoven_mx/">
+          <img class="my-auto" src="../../../assets/icon/icons8-instagram.svg" style="width: 50%;">
+        </a>
+      </div>
+      <div class="col">
+        <a href="https://www.youtube.com/channel/UCW3DoltD-uMvIKCXu5_r2fw">
+          <img class="my-auto" src="../../../assets/icon/icons8-youtube-play.svg" style="width: 50%;">
+        </a>
+      </div>
+      <div class="col">
+        <a href="https://www.tiktok.com/@miradajovenmx">
+          <img class="my-auto" src="../../../assets/icon/icons8-tik-tok.svg" style="width: 50%;">
+        </a>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+<div #visitsDiv class="row bg-white text-center py-3">
+  <div class="col">
+    <app-visit-counter #counter endAt="165000000" interval="10"></app-visit-counter>
+    <h5>¡Somos la mayor generación de jóvenes!</h5>
+    <p class="card-text text-muted">
+      Queremos que tu voz sea escuchada y tomada en cuenta. Cuéntanos tus ideas y preocupaciones: juntos podemos propiciar el cambio.
+    </p>
+  </div>
+</div>
+
+<div class="row justify-content-center">
+  <ngb-carousel *ngIf="imagenes" style="width: 100%;height: 230px;">
+    <ng-template ngbSlide style="width: 100%;height: 230px;">
+      <div class="picsum-img-wrapper">
+        <picture >
+          <img class="img-fluid" [src]="imagenes[0]" style="height: 230px;width: 100%;">
+        </picture>
+      </div>
+      <div class="carousel-caption">
+        <p class="text-white"> En Mirada Joven encontré respuestas a mis dudas
+          sobre sexualidad y me he sentido mucho mejor.</p>
+        <h3 class="text-white">Francisco García</h3>
+        <h6 class="text-white">Guadalajara</h6>
+      </div>
+    </ng-template>
+    <ng-template ngbSlide style="width: 100%;height: 230px;">
+      <div class="picsum-img-wrapper" >
+        <picture>
+          <img class="img-fluid" [src]="imagenes[1]" style="width: 100%;height: 230px;">
+        </picture>
+      </div>
+      <div class="carousel-caption">
+        <p class="text-white">Me gusta que no solamente hablen de sexualidad, 
+          si no que hay contenidos para que los jóvenes podamos ser 
+          agentes de cambio social.  </p>
+        <h3 class="text-white">Juan González</h3>
+        <h6 class="text-white">CDMX</h6>
+      </div>
+    </ng-template>
+  </ngb-carousel>
+</div>

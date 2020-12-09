@@ -1,0 +1,62 @@
+@import 'themes';
+
+@import '~@nebular/theme/styles/globals';
+
+@include nb-install() {
+  @include nb-theme-global();
+};
+/* You can add global styles to this file, and also import other style files */
+.layout-container .content nb-layout-footer nav {
+  background-color: #FFBA00
+}
+
+.nb-theme-default nb-layout .layout .layout-container .content nb-layout-footer nav {
+  background-color: #FFBA00
+}
+
+.nb-theme-default nb-layout-column {
+  padding-top:0px!important;
+}
+
+.nb-theme-default nb-sidebar .scrollable {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.middle{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+ }
+ 
+ .couting-sec{
+     padding: 40px 0;
+     width: 100%;
+     background: linear-gradient(90deg,#3c6382,#82ccdd);
+ }
+ 
+ .inner-width{
+     max-width: 1200px;
+     margin: auto;
+     display: flex;
+ }
+ .col i{
+     font-size: 40px;
+     color: #333;
+ }
+ 
+ .num{
+     font-size: 40px;
+     margin: 20px 0;
+ }

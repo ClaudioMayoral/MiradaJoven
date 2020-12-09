@@ -1,0 +1,176 @@
+<div class="row justify-content-center mx-3">
+    <h3>Servicios amigables de Salud Sexual y Reproductiva</h3>
+</div>
+<div class="row justify-content-center mx-3">
+    <p>¡Acércate, este servicio es para ti!</p>
+</div>
+<div class="row justify-content-center mx-3">
+    <p class="text-muted" class="text-justify">
+      ¡Acércate, este servicio es para ti!
+      Un servicio de salud amigable ofrece una serie de servicios preventivos para las y los adolescentes y jóvenes como tú. Cuenta con un paquete básico de servicios como la disponibilidad de anticonceptivos, consejería, servicios de detección de infecciones de transmisión sexual (ITS), incluyendo la detección del VIH y el embarazo.
+     <br>
+      Estos servicios cuentan con accesibilidad en horarios y ubicación en un ambiente de respeto a tus derechos, tus decisiones y tu autonomía.
+    </p>
+</div>
+<div class="row justify-content-center mx-3">
+    <input  class="form-control"
+            type="text"
+            [(ngModel)]="autocompleteInput"
+            #addresstext 
+            style="padding: 12px 20px; border: 1px solid #ccc;">
+</div>
+<div class="row justify-content-center mt-2">
+  <div class="container">
+    <google-map
+    width="100%"
+    [zoom]="zoom"
+    [center]="center"
+    [options]="options"
+    (centerChanged)="onCenterChange($event)"
+    (zoomChanged)="onZoomChanged()">
+      <map-marker
+        #markerElem
+        *ngFor="let marker of markers"
+        [position]="marker.position"
+        [label]="marker.label"
+        [title]="marker.title"
+        [options]="marker.options"
+        (mapClick)="openInfo(content, marker.info)">
+      </map-marker>
+      <map-info-window>{{ infoContent }}</map-info-window>
+    </google-map>
+  </div>
+</div>
+
+<ng-template #content let-modal>
+    <div class="modal-header">
+      <h5 class="modal-title" id="modal-basic-title">{{ infoContent.unit_name }}</h5>
+      <button type="button" class="close" aria-label="Close" (click)="close()">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+        <p class="text-fs-info">TURNO: {{ infoContent.turn }}</p>
+        <p class="text-fs-info">{{ infoContent.service_days  }}</p>
+        <div class="row">
+          <div class="col">
+            <p class="text-fs-info">{{ infoContent.address }} {{ infoContent.neighborhood }} {{ infoContent.state }} {{ infoContent.postal_code }}</p>
+          </div>
+          <div class="col">
+            <a target="_blank" href="https://maps.google.com/?q={{infoContent.coordinates.Rc}},{{infoContent.coordinates.Ac}}">Ir a la dirección</a>
+          </div>
+        </div>
+        <p>{{ infoContent.phone }}</p>
+        <p>A {{ distanceInKmFromPosition | number:'1.2-2'  }} km de tu ubicación</p>
+        <div>
+            <h6>TIPO DE ATENCIÓN</h6>
+            <div class="row row-cols-3">
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">ORIENTACIÓN<br>CONSEJERA</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_orientation_service?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">ATENCIÓN<br>PSICOLOGICA</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_psychology_service?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">ATENCIÓN<br>MEDICA</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_medic_service?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">PLÁTICAS<br>EN SSRA</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_ssra?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">TALLERES</p>
+                    <p class="card-text text-fs-card" style="margin-top: 36px;">{{ infoContent.has_workshops?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">ENTREGA DE<br>ANTICONCEPTIVOS<p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_contraceptive?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">ATENCIÓN DE<br>EMBARAZADAS</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_pregnant_service?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">DETECCIÓN DE<br>ITS</p>
+                    <p class="card-text text-fs-card">{{ infoContent.has_its_service?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col service-col">
+                <div class="card mb-4 service-info-card">
+                  <div style="text-align: center;">
+                    <p class="fs-title">OTRA</p>
+                    <p class="card-text text-fs-card" style="margin-top: 36px;">{{ infoContent.others?'SÍ':'NO' }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="display: none;">
+              <div class="col-7">
+                <p style="font-size: small;">LA INFORMACIÓN Y/O ATENCIÓN QUE EL CENTRO TE BRINDÓ FUE:</p>
+              </div>
+              <div class="col-5">
+                <div class="row">
+                  <div class="col">
+                    <i class="far fa-frown fa-2x" style="color: red;cursor: pointer;" (click)="rateService(0)"></i>
+                  </div>
+                  <div class="col">
+                    <i class="far fa-meh fa-2x" style="color: orange;cursor: pointer;" (click)="rateService(1)"></i>
+                  </div>
+                  <div class="col">
+                    <i class="far fa-smile fa-2x" style="color: green;cursor: pointer;" (click)="rateService(2)"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+</ng-template>
+
+<ng-template #opinionRate>
+  <div class="modal-header">
+    <h4 class="modal-title">¡Gracias por compartirnos tu opinión!</h4>
+    <button type="button" class="close" aria-label="Close" (click)="close()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>Para nosotros son muy importantes tus comentarios ya que nos ayudan a mejorar</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="close()">Close</button>
+  </div>
+</ng-template>

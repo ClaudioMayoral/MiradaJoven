@@ -1,0 +1,63 @@
+<div class="container-fluid">
+    <div class="article-custom py-2">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a [routerLink]="['/home']">Inicio</a></li>
+                <li class="breadcrumb-item" *ngFor="let item of path_routes">
+                    <a [routerLink]="[item.route]">{{ item.title }}</a>
+                </li>
+                <li class="breadcrumb-item active" aria-current="page">{{current_route}}</li>
+            </ol>
+        </nav>
+        <div class="row" [ngStyle]="{'background-color': bg_color}">
+            <div class="col">
+                <h5 style="color: white;">{{ content.title }}</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col"><small>{{ content.publish_date | date: 'mediumDate' }} | {{ content.author }}</small></div>
+        </div>
+        <div class="row justify-content-center">
+            <picture>
+                <img class="img-fluid" [src]="content.banner">
+            </picture>
+        </div>
+        <div class="row mt-2">
+            <div id="article-content" class="mx-4" style="text-align: justify;"></div>
+        </div>
+        <div class="row">
+            <div class="col-auto">
+                <p>Compartir:</p>
+            </div>
+            <div class="col-auto">
+                <a href="http://www.facebook.com/sharer.php?u={{ current }}" target="_blank">
+                    <img class="mr-3 my-auto" src="../../../assets/icon/icons8-facebook.svg" style="width: 5vw;">
+                </a>
+            </div>
+            <div class="col-auto">
+                <a href="https://twitter.com/intent/tweet?screen_name=miradajoven_mx&ref_src=twsrc%5Etfw" class="" data-show-screen-name="false" data-lang="es" data-show-count="false"><img class="mr-3 my-auto" src="../../../assets/icon/icons8-twitter.svg" style="width: 5vw;"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <!--  <div class="col-auto">
+                <a>
+                    <img class="mr-3 my-auto" src="../../../assets/icon/icons8-instagram.svg" style="width: 5vw;">
+                </a>
+            </div>
+            -->
+            <div class="col-auto">
+                <a href="https://wa.me/?text={{ current }}" target="_blank">
+                    <img class="mr-3 my-auto" src="../../../assets/icon/icons8-whatsapp.svg" style="width: 5vw;">
+                </a>
+            </div>
+        </div>
+    
+    </div>
+</div>
+<script>
+    document.getElementById('shareBtnFb').onclick = function() {
+      FB.ui({
+        display: 'popup',
+        method: 'share',
+        href: 'https://developers.facebook.com/docs/',
+      }, function(response){});
+    }
+</script>

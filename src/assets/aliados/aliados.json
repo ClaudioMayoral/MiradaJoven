@@ -1,0 +1,96 @@
+{
+    "allies": [
+        
+        {
+            "title": "Balance",
+            "description": "",
+            "icon": "/assets/aliados/icons/balance-logo.jpg",
+            "url": "https://balancemx.org/es"
+        },
+        {
+            "title": "CONAPO",
+            "description": "",
+            "icon": "/assets/aliados/icons/conapo-logo2.jpg",
+            "url": "https://www.gob.mx/conapo"
+        },
+        {
+            "title": "ConstruyeT",
+            "description": "",
+            "icon": "/assets/aliados/icons/construyet-logo.jpg",
+            "url": "https://www.construye-t.org.mx/"
+        },
+        {
+            "title": "Flo",
+            "description": "",
+            "icon": "/assets/aliados/icons/flo-logo.png",
+            "url": "https://flo.health/es"
+        },
+        {
+            "title": "Fundación México Vivo",
+            "description": "",
+            "icon": "/assets/aliados/icons/Mexico-Vivo.jpg",
+            "url": "https://mexicovivo.org/"
+        },
+        {
+            "title": "Fundación Televisa",
+            "description": "",
+            "icon": "/assets/aliados/icons/fundacion-televisa.jpg",
+            "url": "https://fundaciontelevisa.org/"
+        },
+        {
+            "title": "GENDES, A.C",
+            "description": "",
+            "icon": "/assets/aliados/icons/gendes-logo.jpg",
+            "url": "https://www.gendes.org.mx/"
+        },
+        {
+            "title": "Hablemos de Sexo y Amor",
+            "description": "",
+            "icon": "/assets/aliados/icons/hablemosdesexo-150x150.jpg",
+            "url": "https://hablemosdesexo.com/"
+        },
+        {
+            "title": "Instituto de Liderazgo Simone de Beauvoir",
+            "description": "",
+            "icon": "/assets/aliados/icons/ilsb-logo.jpg",
+            "url": "https://ilsb.org.mx/"
+        },
+        {
+            "title": "Luchadoras",
+            "description": "",
+            "icon": "/assets/aliados/icons/luchadoras-logo.jpg",
+            "url": "https://luchadoras.mx/"
+        },
+        {
+            "title": "Mexfam",
+            "description": "",
+            "icon": "/assets/aliados/icons/mexfam-logo.jpg",
+            "url": "https://mexfam.org.mx/"
+        },
+        {
+            "title": "Population Media Center",
+            "description": "",
+            "icon": "/assets/aliados/icons/populationmc-logo.jpg",
+            "url": "https://www.populationmedia.org/"
+        },
+        {
+            "title": "REDefine",
+            "description": "",
+            "icon": "/assets/aliados/icons/redefine-logo.jpg",
+            "url": "https://ilsb.org.mx/programas-eventos/redefine/"
+        },
+        {
+            "title": "UNFPA",
+            "description": "",
+            "icon": "/assets/aliados/icons/unfpa-logo1.jpg",
+            "url": "https://mexico.unfpa.org/es"
+        },
+        {
+            "title": "1doc3",
+            "description": "",
+            "icon": "/assets/aliados/icons/1doc3-150x150.jpg",
+            "url": "https://www.1doc3.com/"
+        }
+        
+    ]
+}

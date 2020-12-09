@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mirada Joven</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnIs_Bl-4IoDr0ow8nZRdNYdwWzEy685o&libraries=geometry,places"></script>
+  <script src="https://kit.fontawesome.com/9a07e9179d.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ 
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"></script>
+  
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+  <script src="https://connect.facebook.net/es_LA/sdk.js?hash=9616742913a3ffba2a871e387b72fd61&amp;ua=modern_es6" async="" crossorigin="anonymous"></script>
+  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-156426006-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-174937662-1');
+  </script>
+</head>
+<body>
+  <app-root></app-root>
+  <script type="text/javascript">
+    $(".num").counterUp({delay:10,time:1000})
+  </script>
+  <!-- 2. Add cookieconsent dependency-->
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

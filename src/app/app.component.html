@@ -1,0 +1,115 @@
+<div class="container-xl">
+  <nb-layout>
+    <nb-layout-header fixed>
+      <nb-layout-column style="width: 100%;">
+        <div class="row">
+          <div class="col">
+            <a href="#">
+              <img src="/assets/logo.png" width="150px">
+            </a>
+          </div>
+          <div class="col d-flex align-items-center justify-content-end">
+            
+            <a [routerLink]="['/1doc3']">
+            <img class="" src="../assets/icon/preguntas.svg" style="height: 1.5rem">
+          </a>
+          <a href="tel:01800-00-77-200">
+            <img class="" src="../assets/icon/menu-2.svg" style="height: 1.5rem">
+          </a>
+          <a href="https://api.whatsapp.com/send?phone=525579995957">
+            <img class="" src="../assets/icon/icons8-whatsapp.svg" style="height: 1.4rem">
+          </a>
+          <a href="/servicios-amigables">
+            <img class="" src="../assets/icon/SERVICIOS.svg" style="height: 1.5rem">
+          </a>
+          </div>
+        </div>
+      </nb-layout-column>
+      <nb-layout-column rigth>
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <button id="menuBtn" nbButton ghost (click)="toggle()">
+                <nb-icon icon="menu"></nb-icon>
+              </button>
+            </div>
+          </div>
+        </div>
+      </nb-layout-column>
+    </nb-layout-header>
+  
+    <nb-sidebar #sidebar fixed right tag="rigth" state="collapsed" style="z-index: 100; background-color:rgba(0, 0, 0, 0.85); text-transform: uppercase;">
+      <div id="mainNav" class="container h-100 d-flex flex-column">
+        <div class="row mx-0 mb-auto w-100">
+          <div class="col px-0">
+            <ul class="nav flex-column">
+              <li class="nav-item">
+                <a class="nav-link" [routerLink]="['/aliados']">Nuestros aliados/as</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" [routerLink]="['/acerca-nosotros']">Acerca de Mirada Joven</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" [routerLink]="['/concurso']">Concurso de Expresión</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" [routerLink]="['/politicas-privacidad']">Políticas de privacidad</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+  
+      </div>
+    </nb-sidebar>
+  
+    <nb-layout-column style="padding: 0%;">
+      <router-outlet></router-outlet>
+    </nb-layout-column>
+  
+    <nb-layout-footer style="margin-right: -15px;margin-left: -15px;">
+  
+        <div class="row text-center">
+          <div class="col">
+            <p>Contáctanos: <a class="text-dark"></a></p>
+            <a href="mailto:hola@miradajoven.org">
+            <nb-icon icon="email"  style="margin-right: auto; margin-left: auto; font-size: 3rem; color:white"></nb-icon>
+          </a>
+          <div class="col">
+            <h5 class="card-title">¡Síguenos !</h5>
+            <div class="row d-flex justify-content-between">
+              <div class="col-auto">
+                  <a href="https://www.facebook.com/MiradaJovenOficial/">
+                    <img class="my-auto" src="../../../assets/icon/facebook.svg" style="width: 6vw;">
+                  </a>
+              </div>
+              <div class="col-auto">
+                <a href="https://twitter.com/miradajoven_mx">
+                  <img class="my-auto" src="../../../assets/icon/twitter.svg" style="width: 6vw;">
+                </a>
+            </div>
+            <div class="col-auto">
+              <a href="https://www.instagram.com/miradajoven_mx/">
+                <img class="my-auto" src="../../../assets/icon/instagrampie.svg" style="width: 6vw;">
+              </a>
+          </div>
+              <div class="col-auto">
+                  <a href="https://www.youtube.com/channel/UCW3DoltD-uMvIKCXu5_r2fw">
+                    <img class="my-auto" src="../../../assets/icon/youtube2.svg" style="width: 6vw;">
+                  </a>
+              </div>
+              <div class="col-auto">
+                <a href="https://www.tiktok.com/@miradajovenmx">
+                  <img class="my-auto" src="../../../assets/icon/tiktok.svg" style="width: 6vw;">
+                </a>
+            </div>
+          </div>
+          </div>
+            <hr style="border-top: 2px solid white;">
+            
+            <a class="mb-0" [routerLink]="['/politicas-privacidad']">Aviso de privacidad</a>
+            <p>Copyright © Mirada Joven 2020</p>
+          </div>
+        </div>
+    </nb-layout-footer>
+  </nb-layout>
+</div>

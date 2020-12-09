@@ -1,0 +1,43 @@
+<div class="row">
+    <div class="col mt-2">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a [routerLink]="['/home']">Inicio</a>
+                </li>
+                <li class="breadcrumb-item" *ngFor="let item of path_routes">
+                    <a [routerLink]="[item.route]">{{ item.title }}</a>
+                </li>
+                <li class="breadcrumb-item active" aria-current="page">{{current_route}}</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 mt-2" *ngFor="let content of contents;let i=index" style="max-height: 256px;">
+        <div class="card option-notes-custom rounded-0 border-0" style="height: 100%;" [ngStyle]="{'background-color': content.bgColor}">
+            <div class="card-body">
+                <div class="d-flex flex-row bd-highlight align-items-center">
+                    <div class="bd-highlight">
+                        <img [src]="content.thumbail" style="width: 70px;">
+                    </div>
+                    <div class="ml-2 p-1 bd-highlight">
+                        <h5 class="card-title" style="word-wrap: break-word;font-size: 1.25rem;line-height: 1.2; color:white;">
+                            {{ content.title }}
+                        </h5>
+                        <div style="max-height: 60px;overflow: hidden;text-overflow: ellipsis; word-wrap: normal;">
+                            <p style="color:white;">{{ content.content_preview }}</p>
+                        </div>
+                        <ng-container *ngIf="!content.url.startsWith('como');else intern">
+                            <a class="btn btn-primary mt-2 py-1 px-2" style="color: white; text-decoration: none;" [href]="content.url">Leer</a>
+                        </ng-container>
+                        <ng-template #intern>
+                            <button class="btn btn-primary mt-2 py-1 px-2" [routerLink]="content.url">Leer</button>
+                        </ng-template>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+</div>

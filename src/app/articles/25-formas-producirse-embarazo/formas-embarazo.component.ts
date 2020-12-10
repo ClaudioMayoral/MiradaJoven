@@ -32,5 +32,24 @@ export class FormasEmbarazoComponent extends CardsBase implements OnInit {
       }
     ];
   }
+  audioObj = new Audio();
+  file = [
+      {
+        url: './assets/audio/22-De qué formas puede producirse un embarazo.mp3'
+        ,name: 'De qué formas puede producirse un embarazo audio'
+      }
+    ]
+
+  play(){
+
+  }
+
+  pause(){
+
+  }
+
+  stop(){
+
+  }
 
 }

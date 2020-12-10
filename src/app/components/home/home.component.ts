@@ -1,6 +1,8 @@
 import { Component, OnInit, ViewChild, ElementRef, AfterViewInit, HostListener, Renderer2 } from '@angular/core';
 import { DataTree } from 'src/app/data/data-tree';
+import { DataTreeNahua } from 'src/app/data/data-treenahua';
 import { VisitCounterComponent } from '../common/visit-counter/visit-counter.component';
+
 
 @Component({
   selector: 'app-home',
@@ -13,7 +15,13 @@ export class HomeComponent implements OnInit,AfterViewInit {
   @ViewChild('counter', {read:VisitCounterComponent}) private counter: VisitCounterComponent;
 
   visitCounter = 0;
-  cards = DataTree.main;
+  cards;
+
+  lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+  
+  
+  
+
   images = [1, 2, 3, 4, 5, 6].map((n) => `/assets/carousel/b-${n}.jpg`);
   imagenes = [1, 2, 3].map((n) => `/assets/testimonio/b-${n}.jpg`);
 
@@ -44,7 +52,15 @@ export class HomeComponent implements OnInit,AfterViewInit {
     }
   }
   
-  constructor(private render:Renderer2) { }
+  constructor(private render:Renderer2) {
+    //Configuracion para elegir el lenguaje
+    this.lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+    if(this.lenguaje == 'esp'){
+      this.cards = DataTree.main;
+    }else{
+      this.cards = DataTreeNahua.main;
+    }
+   }
 
   ngAfterViewInit(): void {
      
@@ -53,6 +69,8 @@ export class HomeComponent implements OnInit,AfterViewInit {
   ngOnInit(): void {
 
   }
+
+
 
   getYPosition(e: Event): number {
     return (e.target as Element).scrollTop;

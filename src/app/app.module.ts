@@ -95,6 +95,7 @@ import { AgenteCambioComponent } from './components/cards/weba/generacion-2030/y
 import { TomaAccionComponent } from './components/cards/weba/generacion-2030/toma-accion/toma.accion.component';
 import { EnfoqueJuventudesComponent } from './articles/enfoque-de-juventudes/enfoque-juventudes.component';
 import { AprendeComponent } from './components/cards/weba/generacion-2030/aprende/aprende.component';
+import { TraductorComponent } from './traductor/traductor.component';
 
 const cookieConfig:NgcCookieConsentConfig = {
   cookie: {
@@ -203,7 +204,8 @@ const cookieConfig:NgcCookieConsentConfig = {
     AgenteCambioComponent,
     TomaAccionComponent,
     EnfoqueJuventudesComponent,
-    AprendeComponent
+    AprendeComponent,
+    TraductorComponent
   ],
   imports: [
     BrowserModule,

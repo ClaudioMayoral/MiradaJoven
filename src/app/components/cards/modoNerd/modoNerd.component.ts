@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataTree } from 'src/app/data/data-tree';
+import { DataTreeNahua } from 'src/app/data/data-treenahua';
 
 @Component({
   selector: 'app-modoNerd',
@@ -8,9 +9,19 @@ import { DataTree } from 'src/app/data/data-tree';
 })
 export class ModoNerdComponent implements OnInit {
  
-  cards = DataTree.modoNerd;
+  cards;
   
-  constructor() { }
+  lenguaje;
+  
+  constructor() {
+    //Seleccion de lenguaje
+    this.lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+    if(this.lenguaje == 'esp'){
+      this.cards = DataTree.modoNerd;
+    }else{
+      this.cards = DataTreeNahua.modoNerd;
+    }
+   }
 
   ngOnInit() {}
 

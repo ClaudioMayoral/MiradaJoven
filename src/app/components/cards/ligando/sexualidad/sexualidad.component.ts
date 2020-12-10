@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataTree } from 'src/app/data/data-tree';
+import { DataTreeNahua } from 'src/app/data/data-treenahua';
 import { PathRoute } from 'src/app/components/common/article/article.component';
 
 @Component({
@@ -8,11 +9,20 @@ import { PathRoute } from 'src/app/components/common/article/article.component';
   styleUrls: ['./sexualidad.component.scss'],
 })
 export class SexualidadComponent implements OnInit {
-
-  cards = DataTree.sexualidad;
   path:PathRoute[];
 
-  constructor() { }
+  cards;
+  lenguaje;
+  
+  constructor() {
+    //Seleccion de lenguaje
+    this.lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+    if(this.lenguaje == 'esp'){
+      this.cards = DataTree.sexualidad;
+    }else{
+      this.cards = DataTreeNahua.sexualidad;
+    }
+   }
 
   ngOnInit() {
     this.path = [

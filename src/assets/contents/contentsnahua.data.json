@@ -1,0 +1,3052 @@
+{
+    "no_ando_al_100": [
+        { 
+            "title":"¿Por qué no me gusta cómo me veo?",
+            "thumbail": "/assets/icon/nomeGUsta.PNG",
+            "content_preview": "Durante la pubertad tu cuerpo experimenta muchos cambios.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/fmdS0GBVOZA",
+            "author": "Amaze",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"Apariencia física: todos los cuerpos son bellos",
+            "thumbail": "/assets/icon/aparienciaFisica.PNG",
+            "content_preview": "Durante la pubertad, tu cuerpo experimenta muchos cambios. A veces esto puede...",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://amaze.org/es/video/puberty-bodies-different-shapes-and-sizes-mexico/",
+            "author": "Amaze",
+            "bgColor":"#1AA086"
+        },
+        {
+            "title":"Siento celos, ¿es normal?",
+            "thumbail": "/assets/icon/Ccelosnota.PNG",
+            "content_preview": "Tener un poco de celos es común: ¿cómo hablar de ellos? ",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/problemas-de-relacion/celos-y-otros-problemas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        { 
+            "title":"Cómo vivir con VIH o sida",
+            "thumbail": "",
+            "content_preview": "Si recientemente te diagnosticaron VIH o sida, es perfectamente normal que te sientas como si el mundo te cayese encima. Sin embargo, debes saber que, en estos días, un diagnóstico de VIH o de sida no es una sentencia de muerte. Si tomas tu medicación correctamente y si cuidas de tu salud física y mental, entonces podrás vivir una vida normal y feliz.",
+            "content": "Aunque, indudablemente, deberás lidiar con el dolor físico y con el costo mental de tener que contarle a la gente sobre tu condición, todavía podrás tener una vida larga y significativa por delante si asumes la actitud correcta. Actualmente, más de 1,1 millones de norteamericanos viven con el VIH; por ello, una de las cosas más importantes que debes saber es que, sin importar que tan asustado te sientas, no estás solo.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://es.wikihow.com/vivir-con-VIH-o-sida",
+            "author": "WikiHow",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"¿Dónde acudir en casos de violencia de género?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://youtu.be/h0IS3dG3bls",
+            "author": "Iniciativa Spotlight",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"Autocuidado y prevención de la violencia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/VZt1_qriSmU",
+            "author": "UNFPA",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"Bullying en las Redes Sociales: ¿qué hacer?",
+            "thumbail": "",
+            "content_preview": "El bullying (intimidación) en las redes sociales causa el mismo daño que otros tipos de bullying -a veces es aún peor-. Esto se debe a que es difícil evitarlo y puede alcanzar a una persona no importa dónde esté o qué se esté haciendo.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Planned Parenthood",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"¿Cómo saber si estás deprimida/o?",
+            "thumbail": "/assets/icon/enDepre.PNG",
+            "content_preview": "Identifica los principales síntomas de la depresión, una enfermedad del cerebro que puede limitar tu vida.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"Habilidades socioemocionales para jóvenes.",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/-8f62XjpXJc",
+            "publish_date": "01/01/2020",
+            "author": "Construye-T",
+            "bgColor":"#1AA086"
+        },
+        { 
+            "title":"Relaciones saludables vs. relaciones no saludables",
+            "thumbail": "/assets/icon/relacionesSaludables.PNG",
+            "content_preview": "Tener sentimientos románticos y sexuales por otra persona de tu misma edad es totalmente normal durante la pubertad.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/https://amaze.org/es/video/healthy-vs-unhealthy-relationships/",
+            "publish_date": "01/01/2020",
+            "author": "Amaze",
+            "bgColor":"#1AA086"
+        }
+    ],
+
+    "ignoradx": [
+        {
+            "title":"Levanta la voz",
+            "thumbail": "/assets/icon/LEVANTALAVOZNOTA.PNG",
+            "content_preview": "En una relación, no tienes que tener sexo con tu pareja cuando él o ella quiera, si te pide tener…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/levanta-la-voz",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Creo que soy gay",
+            "thumbail": "/assets/icon/creoqueSoyGay.PNG",
+            "content_preview": "¡Ser gay está completamente bien! Es normal y no es nada nuevo - las personas gais siempre han existido. Descubrir tu género puede ser difícil, confuso o llevar tiempo. Puedes no saber qué nombres ponerles a tus sentimientos. Y está bien.",
+            "content": "",
+            "banner": "/assets/icon/creoqueSoyGay.PNG",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-GAY-spanish.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Creo que soy lesbiana",
+            "thumbail": "/assets/icon/creoqueSoyLesbiana.PNG",
+            "content_preview": "¡Ser lesbiana está definitivamente bien! Es completamente normal y no es nada nuevo - las lesbianas siempre han existido. Descubrir tu orientación sexual puede ser difícil, confuso o llevar tiempo. Y está bien.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Lesbian-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Creo que soy bisexual",
+            "thumbail": "/assets/icon/creoqueSoyBisexual.PNG",
+            "content_preview": "¡Ser bisexual está definitivamente bien! Es completamente normal y no es nada nuevo - la bisexualidad siempre ha existido. Descubrir tu orientación sexual puede ser difícil, confuso o llevar tiempo. Y está bien. Algunas personas saben desde pequeñas que no les atrae el género ‘opuesto’.",
+            "content": "",
+            "banner": "https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Bisexual-Pansexual-spanish-translation.pdf",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Creo que soy transgénero",
+            "thumbail": "/assets/icon/creoqueSoyTrasgenero.PNG",
+            "content_preview": "Ser trans es completamente normal – ¡y no es nada nuevo! Desde que la gente existe, han existido las personas que no tienen una concepción convencional de su género, en muchas culturas y lugares diferentes. Descubrir tu género puede ser difícil o confuso. Muchas personas transgénero saben desde muy pequeñas que no se identifican con su sexo y/o género asignado al nacer.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Trans-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Creo que soy asexual",
+            "thumbail": "/assets/icon/creoqueSoyAsexual.PNG",
+            "content_preview": "¡La asexualidad es completamente normal! Es una orientación sexual sana al igual que ser gay o heterosexual y puedes tener relaciones normales. Puede ser confuso, tratar de descubrir si eres asexual, en especial dado que el sexo es tan predominante en nuestra cultura. Puede ser difícil o llevar tiempo, ¡y está bien! Algunas personas saben desde pequeñas que no lo son y otras no lo descubren hasta más adelante.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-ACE-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"¿Cómo saber si estás deprimido?",
+            "thumbail": "/assets/icon/enDepre.PNG",
+            "content_preview": "Identifica los principales síntomas de la depresión, una enfermedad del cerebro que puede limitar tu vida.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"http://ciencia.unam.mx/contenido/infografia/35/-estas-deprimido-",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"Habilidades socioemocionales para jóvenes.",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/-8f62XjpXJc",
+            "publish_date": "01/01/2020",
+            "author": "Construye-T",
+            "bgColor": "#1891B2"
+        },
+        {
+            "title":"¿Por qué no me gusta como me veo?",
+            "thumbail": "/assets/icon/nomeGUsta.PNG",
+            "content_preview": "Durante la pubertad, tu cuerpo experimenta muchos cambios. A veces esto puede...",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://amaze.org/es/video/puberty-why-dont-i-like-the-way-i-look-mexico/",
+            "author": "Amaze",
+            "bgColor": "#1891B2"
+        }
+    ],
+
+    "masculinidades": [
+        {
+            "title":"¿Qué pasaría si los hombres fueran mujeres?",
+            "thumbail": "/assets/icon/quepasarianota.PNG",
+            "content_preview": "Si te han enseñado a ser un hombre pensando que el cuerpo de las mujeres te pertenecen, y que las…(Nahua)",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-pasaria-si-los-hombres-fueran-mujeres",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué son los micromachismos?",
+            "thumbail": "/assets/icon/micromachismosnota.PNG",
+            "content_preview": "Existe un machismo que por su menor intensidad pasa desapercibido, lo vivimos día a día y por lo tanto, cada…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-son-los-micromachismos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Machismo y sus tipos",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Existen muchas formas de ser hombre",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Por qué los derechos de las mujeres son importantes ",
+            "thumbail": "",
+            "content_preview": "Mi Futuro Es Hoy es un proyecto de GENDES, A.C. para fortalecer el empoderamiento y la ciudadanía de las y los jóvenes.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/a7YGpighaDM",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "embarazo": [
+        {
+            "title":"¿De qué formas puede producirse un embarazo?",
+            "thumbail": "/assets/banners/articles/de-que-forma-puede-producirse-un-embarazo.jpg",
+            "content_preview": "Es importante conocer las formas como puede producirse un embarazo.   Un embarazo se produce con la unión del óvulo…",
+            "content": "<h5>¿De qué formas puede producirse un embarazo?</h5><p><b>Es importante conocer las formas como puede producirse un embarazo.</b></p><p>Un embarazo se produce con la unión del óvulo con el espermatozoide. Las mujeres pueden quedar embarazadas de la siguiente manera:</p><ul class='pl-3'>    <li class='mb-3'>Durante una relación sexual en la que se practique un coito vaginal (introducción del pene en la vagina) sin utilizar adecuadamente un método anticonceptivo o condón, se puede producir un embarazo ya que el líquido preseminal (líquido que sale del pene antes de la eyaculación) contiene espermatozoides.</li>    <li class='mb-3'>Realizando prácticas sexuales cerca de los labios vaginales, como puede ser mediante el roce del pene con la vagina, ya que existe posibilidad de que el semen se introduzca.</li>    <li class='mb-3'>Un embarazo se puede producir aunque sea en una sola relación con penetración o sin penetración, sin utilizar un método anticonceptivo o utilizarlo de forma incorrecta.</li>    <li class='mb-3'>Entre las consecuencias de un embarazo en adolescentes especialmente en niñas menores de 15 años es que tienen cinco veces más probabilidades de morir durante el parto que las mujeres mayores de 20 años. Si una madre tiene menos de 18 años la probabilidad de que su bebé muera durante el primer año de vida es un 60%; incluso en caso de que sobreviva existe una mayor probabilidad de que sufra de bajo peso al nacer, de desnutrición o de retraso en el desarrollo físico y cognitivo.</li>    <li class='mb-3'>Entre los factores que provocan que esto suceda está la mala alimentación, un organismo que aún no está apto para concebir, el maltrato a que con frecuencia son sometidas las adolescentes y la discriminación de género.</li>    <li class='mb-3'>Otras consecuencias son los obstáculos para la formación escolar, laboral, las desventajas en las perspectivas de vida de los progenitores. Frecuentemente tanto el padre como la madre son estudiantes que podrían verse obligados a abandonar sus estudios.</li>    <li class='mb-3'>Asimismo las madres adolescentes tienen mayor probabilidad de ser madres solteras enfrentando la ausencia e irresponsabilidad de los padres del niño o niña.</li></ul>",
+            "banner": "/assets/banners/articles/de-que-forma-puede-producirse-un-embarazo.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/embarazo/formas-embarazo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Periodo con retraso o embarazo?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es la fecundación?",
+            "thumbail": "/assets/banners/articles/que-es-la-fecundacion.jpg",
+            "content_preview": "La fecundación es el proceso por el cual los óvulos y espermatozoides se fusionan para crear un nuevo ser humano…",
+            "content": "<h5>¿Qué es la fecundación?</h5><p><b>La fecundación es el proceso por el cual los óvulos y espermatozoides se fusionan para crear un nuevo ser humano.</b></p><ul class='pl-3'>    <li class='mb-3'>Un adolescente empieza a eyacular, es decir a expulsar el semen, entre los 11 y 15 años. A partir de ese momento puede concebir un hijo o una hija si tiene una relación coital.</li>    <li class='mb-3'>Durante el coito o el acto sexual con penetración, el hombre deposita una gran cantidad de espermatozoides, que son las células sexuales masculinas, en la vagina de la mujer, algunos de ellos pasan al útero y suben hasta la trompas de Falopio en busca del óvulo. La fecundación es la unión del óvulo con el espermatozoide y es el comienzo del embarazo.</li>    <li class='mb-3'>El óvulo ya fecundado baja y se pega a la pared del útero, donde se desarrolla el embarazo. Durante este período, que dura normalmente unos nueve meses, todo el cuerpo de la madre se transforma debido al crecimiento del bebé y a las grandes cantidades de sustancias llamadas hormonas que se producen en este tiempo.</li></ul> <p><b>Todo proceso de embarazo es delicado, sin embargo se pueden dar el caso de que sea de alto riesgo porque presentan situaciones que pueden traer complicaciones para ambas vidas. Entre las que se encuentran: </b></p><ul class='pl-3'>    <li class='mb-3'>Embarazos antes de los 18 años de edad y después de los 35 años</li>    <li class='mb-3'>Un número elevado de partos.</li>    <li class='mb-3'>El consumo de alcohol, drogas, tabaco.</li>    <li class='mb-3'>Desnutrición, anemia.</li>    <li class='mb-3'>VIH-SIDA.</li>    <li class='mb-3'>Enfermedades hereditarias como diabetes, entre otras razones.</li></ul>",
+            "banner": "/assets/banners/articles/que-es-la-fecundacion.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/embarazo/fecundacion",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo puedo prevenir un embarazo?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Señales y proceso de parto",
+            "thumbail": "/assets/banners/articles/el-parto.jpg",
+            "content_preview": "Al final de los nueve meses, cuando el bebé está desarrollado dentro del útero, se produce la última etapa que…",
+            "content": "<h5>El Parto</h5><p><b>Al final de los nueve meses, cuando el bebé está desarrollado dentro del útero, se produce la última etapa que se llama “PARTO”. Cuando la mujer está en labor de parto existen tres etapas: dilatación, expulsión y alumbramiento.</b></p><p><b>Las señales de que el parto está cerca pueden ser las siguientes:</b></p><ul class='pl-3'>    <li class='mb-3'>Pérdida del tapón mucoso (sale una especie de líquido espeso por la vagina).</li>    <li class='mb-3'>Durante el proceso las contracciones son cada vez más intensas y sistemáticas. De igual manera previo a entrar a un trabajo de parto, el saco amniótico o “la fuente ” se rompe y produce que salga mucha agua por la vagina.</li></ul><p><b>El proceso del parto:</b></p><ul class='pl-3'>    <li class='mb-3'>Las contracciones hacen que el cuello del útero se dilate, es decir, que se abra. El médico sabe cuánto centímetros ha dilatado haciendo tactos vaginales en constantes repeticiones y esta etapa termina cuando la abertura del cuello del útero mide 10 centímetros.</li>    <li class='mb-3'>Una vez que la vagina se haya dilatado aproximadamente unos 10 centímetro, sale la cabeza, que es la parte más ancha y después el resto del cuerpo sale muy rápido.</li>    <li class='mb-3'>Después de unos 30 minutos de haber nacido el bebé, sale la placenta de la madre.</li></ul><p><b>La cesárea:</b></p><p><b>La cesárea es una operación quirúrgica que se realiza cuando el bebé no puede nacer por la vía vaginal y se hace necesario sacarlo por el vientre.</b></p><p>Las recomendaciones para después del nacimiento del bebé son</p><ul class='pl-3'>    <li class='mb-3'>Mantener una higiene cuidadosa para evitar infecciones vaginales. A pesar de que hay tabúes al respecto, la mujer puede asearse todo el cuerpo sin ningún riesgo.</li>    <li class='mb-3'>Alimentarse tanto la madre como el bebé saludablemente para evitar anemia.</li>    <li class='mb-3'>Lactar o amamantar al bebé de forma exclusiva los primeros seis meses. Para ello se recomienda que coloque el bebé al seno cada vez que quiera, mientras más lo pegue al seno, más leche produce.</li>    <li class='mb-3'>Es necesario descansar lo suficiente.</li></ul>",
+            "banner": "/assets/banners/articles/el-parto.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/embarazo/proceso-parto",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"El Embarazo",
+            "thumbail": "/assets/banners/articles/el-embarazo.jpg",
+            "content_preview": "El embarazo se desarrolla en diferentes etapas que inician con la fecundación y concluyen con el parto. Este proceso es…",
+            "content": "<h5>El Embarazo.</h5><p><b>El embarazo se desarrolla en diferentes etapas que inician con la fecundación y concluyen con el parto. Este proceso es un estado temporal de la mujer, durante el cual se forma y desarrolla un nuevo ser en su útero.</b></p><p>El largo camino que se inicia con la fecundación del óvulo  y termina con el parto, los principales síntomas que se producen asociados al embarazo son:</p><ul class='pl-3'>    <li class='mb-3'>Ausencia de la menstruación (amenorrea).</li>    <li class='mb-3'>Cambios en el tamaño y sensibilidad de los senos.</li>    <li class='mb-3'>Náuseas, vómitos, sensación de fatiga y mareos en algunos casos.</li>    <li class='mb-3'>Oscurecimiento de la zona que rodea el pezón (areolas).</li>    <li class='mb-3'>Somnolencia, depresión, irritabilidad.</li>    <li class='mb-3'>Cambios en el gusto y preferencia por ciertos alimentos.</li>    <li class='mb-3'>Aumento del vientre a medida que pasan las semanas.</li></ul><p><b>El embarazo tiene una duración de 9 meses (aproximadamente de 38 a 40 semanas), y transcurre de la siguiente forma:</b></p><ul class='pl-3'>    <li class='mb-3'><strong>Primer mes: </strong>Al final del primer mes tiene el tamaño de un grano de arroz. En esta etapa se están formándose su cerebro, corazón, columna vertebral y sistema nervioso.</li>    <li class='mb-3'><strong>Segundo mes: </strong>Tiene la cabeza grande y aparecen los ojos, las orejas y la boca. El corazón empieza a circular sangre.</li>    <li class='mb-3'><strong>Tercer mes: </strong>El cerebro, el estómago, los intestinos, el esqueleto y los músculos están más desarrollados y trabajan en conjunto. Su cuerpo está casi completo y empieza a  distinguir en la madre las emociones placenteras.</li>    <li class='mb-3'><strong>Cuarto mes: </strong>Se alimenta por la placenta, se empiezan a formar los dedos de las manos y de los pies.</li>    <li class='mb-3'><strong>Quinto mes: </strong>El cabello empieza a crecer en su cabeza, aparecen las cejas y las pestañas. Puede despertarse, encogerse y hacer gestos. Escucha la voz de su mamá y de su papá.</li>    <li class='mb-3'><strong>Sexto mes: </strong>Su piel es fina y brillante. Los párpados comienzan a separarse y los ojos se abren.</li>    <li class='mb-3'><strong>Séptimo mes: </strong>El bebé pesa aproximadamente 1 kilo, empieza a responder a los estímulos incluidos el dolor, la luz y el sonido.</li>    <li class='mb-3'><strong>Octavo mes: </strong>El bebé pesa unos 2.5 kilos, en este período experimentan un gran crecimiento, sobre todo en el cerebro y ha desarrollado más su capacidad de ver y oír.</li>    <li class='mb-3'><strong>Noveno mes: </strong>Sus pulmones ya son maduros y el bebé pesa alrededor de 3 kilos y medio. Se mueve menos debido a que se encuentra más apretado y posiblemente ya encajado en la pelvis en posición para comenzar el trabajo de parto.</li></ul><p><b>Si decidimos tener un embarazo en pareja, es importante saber que es una responsabilidad de ambos.</b></p><p><b>El hombre debe informarse y acompañar en cada una de las actividades durante el embarazo a su pareja.</b></p><p><b>La mujer embarazada necesita apoyo afectivo porque es una etapa de muchos cambios hormonales en todos los niveles.</b></p><p>A veces puede aparecer depresión por no sentirse acompañadas de una pareja, o por posibles ofensas al ser adolescentes embarazadas, en este caso, pueden buscar ayuda profesional en las unidades de adolescentes de los centros de salud.</p><p><b>Las recomendaciones hacia las mujeres embarazadas para tener un parto libre de complicaciones son: </b></p><ul class='pl-3'>    <li class='mb-3'>Visitar el médico cada mes y realizarse los exámenes recomendados por el doctor.</li>    <li class='mb-3'>Alimentarse sanamente llevando una dieta balanceada.</li>    <li class='mb-3'>No fumar, ni consumir alcohol o drogas.</li>    <li class='mb-3'>No ingerir medicamentos que no sean recomendados por su doctor o doctora.</li></ul><p><b>Recuerda que si eres una adolescente embarazada, tienes derecho a una educación igual a todas y todos los demás.</b></p>",
+            "banner": "/assets/banners/articles/el-embarazo.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/embarazo/el-embarazo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"La prevención del embarazo en la adolescencia",
+            "thumbail": "/assets/banners/articles/La-prevencion-del-embarazo.jpg",
+            "content_preview": "Es importante saber cómo prevenir un embarazo en la adolescencia. Para evitar un embarazo no deseado, precipitado o sorpresivo te…",
+            "content": "<h5>La Prevención del embarazo en la adolescencia.</h5><p><b>Es importante saber cómo prevenir un embarazo en la adolescencia.</b></p><p>Para evitar un embarazo no deseado, precipitado o sorpresivo te compartimos los siguientes consejos:</p><ul class='pl-3'>    <li class='mb-3'>Es necesario abstenerse de tener relaciones sexuales hasta que se tenga la madurez para comprender su significado y responsabilidad.</li>    <li class='mb-3'>Es muy importante leer la información relacionada sobre el embarazo, sus riesgos y la forma de prevenirlos.</li>    <li class='mb-3'>En caso de tener relaciones, utilizar condón adecuadamente durante todas las relaciones coitales, sobre todo porque el ciclo menstrual durante la adolescencia suele ser irregular.</li>    <li class='mb-3'>Conocer todos los métodos anticonceptivos existentes, sus ventajas y desventajas durante la adolescencia. Es necesario consultar a tu médico para que pueda administrar el método anticonceptivo ideal para ti.</li>    <li class='mb-3'>Evitar el consumo de alcohol y drogas, para no perder el control y estar consciente al momento d tener relaciones sexuales, y así poder tomar decisiones adecuadas y responsables.</li>    <li class='mb-3'>Desarrollar valores personales, como el respeto a nuestro cuerpo, a la vida, a las decisiones de los demás.</li>    <li class='mb-3'>Anteponer siempre un proyecto de vida profesional a uno emocional, que aún no se sabe cómo se podrá manejar.</li>    <li class='mb-3'>Actuar con firmeza ante situaciones de reto, riesgo o amenaza y decir siempre <b>“NO”</b> cuando exista la presión hacia las relaciones sexuales. Este tipo de presión casi nunca termina en una relación duradera y estable.</li></ul><p>Si tienes sospechas que estás embarazada por que tu menstruación se ha detenido o si manchas muy poco en comparación con lo acostumbrado sal de dudas y hazte una prueba de embarazo. El Test o pruebas de embarazo lo puedes hacer en tu ginecologo de confianza o comprando una prueba en la farmacia. Es aconsejable realizarlo al menos diez días después de la primera falta de la regla menstrual para que el resultado sea fiable.</p><p><b><i>Si ya has confirmado el embarazo, es importante asistir inmediatamente a las unidades de adolescentes de los centros de salud para recibir orientación y asesoramiento.</i></b></p>",
+            "banner": "/assets/banners/articles/La-prevencion-del-embarazo.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/embarazo/prevencion-embarazo-adolescencia",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Guía de apoyo para la formación de acompañantes a mujeres en situación de aborto.",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/Acompan%CC%83arParaEmpoderar.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Mi amiga, mi prima, mi hermana… ha decidido abortar",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/TripticoAdolescentesFondoMaria.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Embarazo VIH",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/Comic%20Embarazo%20VIH%202018_0.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Embarazo y juventud",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/Embarazo%20y%20juventud%202020%20_compressed.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿El aborto es la opción correcta para mí?",
+            "thumbail": "",
+            "content_preview": "Tener un embarazo no planificado es algo muy común, y muchas personas deciden realizarse un aborto. Solo tú sabes qué es lo mejor para ti, pero contar con buena información y apoyo te puede ayudar a decidir qué es lo mejor para tu salud y bienestar.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/aborto/pensando-tener-un-aborto",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Lo que necesitas saber sobre el aborto",
+            "thumbail": "",
+            "content_preview": "El aborto es un procedimiento muy seguro. Aquí encontrarás lo que debes saber sobre tus opciones, los diferentes tipos de abortos y qué puedes esperar.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/aborto/pensando-tener-un-aborto/que-necesito-saber-sobre-el-aborto",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es un aborto espontáneo?",
+            "thumbail": "",
+            "content_preview": "Un aborto espontáneo es cuando un embrión o feto muere antes de la semana 20 de embarazo. El aborto espontáneo generalmente ocurre temprano en tu embarazo- entre 8 y 10 abortos espontáneos ocurren durante los primeros tres meses.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/embarazo/aborto-espontaneo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo ocurre el embarazo?",
+            "thumbail": "",
+            "content_preview": "Para que ocurra un embarazo, el esperma necesita encontrarse con un óvulo. El embarazo comienza oficialmente cuando un óvulo fecundado se implanta en el revestimiento del útero. Toma hasta 2-3 semanas después de tener sexo para que ocurra un embarazo. ",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/embarazo/como-ocurre-el-embarazo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "metodos_anticonceptivos": [
+        {
+            "title":"Anillo Vaginal",
+            "thumbail": "/assets/banners/articles/anillo-vaginal.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto del anillo vaginal. ¡Usa Condón, así te proteges de VIH/Sida y de otras ITS! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/anillo-vaginal.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-anillo-vaginal-0",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Pastillas Anticonceptivas",
+            "thumbail": "/assets/banners/articles/pastillas-anticonceptivas.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre las pastillas anticonceptivas! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/pastillas-anticonceptivas.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-sobre-pastillas-anticonceptivas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Implante Subdérmico",
+            "thumbail": "/assets/banners/articles/implante-subdermico.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre el uso correcto del implante subdérmico! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/implante-subdermico.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-implante-subdérmico",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Inyecciones Anticonceptivas",
+            "thumbail": "/assets/banners/articles/inyecciones-anticonceptivas.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre la inyección anticonceptiva! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/inyecciones-anticonceptivas.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-de-las-inyecciones-anticonceptivas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Anticoncepción de Emergencia",
+            "thumbail": "/assets/banners/articles/anticoncepcion-emergencia.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto de las PAE. ¡Usa Condón, así te proteges de VIH/Sida y de otras ITS! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/anticoncepcion-emergencia.png",
+            "url":"https://mexico.unfpa.org/es/publications-0",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Parche Anticonceptivo",
+            "thumbail": "/assets/banners/articles/parche-anticonceptivo.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre los parches anticonceptivos! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/parche-anticonceptivo.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-parche-anticonceptivo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Condón Masculino",
+            "thumbail": "/assets/banners/articles/condon-masculino.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto del condón masculino. Hay muchas opciones y seguro alguna de ellas se adapta a tus necesidades. ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/condon-masculino.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-condón-masculino",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Condón Femenino",
+            "thumbail": "/assets/banners/articles/condon-femenino.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre el uso correcto del condón femenino! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/condon-femenino.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-condón-femenino",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Métodos Permanentes",
+            "thumbail": "/assets/banners/articles/metodos-permanentes.png",
+            "content_preview": "Son métodos denitivos de planicación familiar disponibles para la mujer o para el hombre que ya no desean tener más hijas o hijos. Una vez realizadas las cirugías, tienen efectividad toda la vida.",
+            "content": "",
+            "banner": "/assets/banners/articles/metodos-permanentes.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-de-los-métodos-permanentes",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Planificación Familiar",
+            "thumbail": "/assets/banners/articles/planificacion-familiar.jpg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo poner un condón",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/9TvSli3XaPE",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Pastilla de anticoncepción de emergencia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/PAE.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo poner un condón en 5 pasos",
+            "thumbail": "",
+            "content_preview": "¿Sabes cómo poner un condón?. La mayoría de las veces que un condón se rompe o no funciona es porque se colocó mal. Y en realidad es algo MUY sencillo. ¡Revisa tu técnica en este video de Sexplaining!",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=Mok-B-ge0n0&has_verified=1",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "metodos_anticonceptivos_2": [
+        {
+            "title":"Anillo Vaginal",
+            "thumbail": "/assets/banners/articles/anillo-vaginal.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto del anillo vaginal. ¡Usa Condón, así te proteges de VIH/Sida y de otras ITS! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/anillo-vaginal.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-anillo-vaginal-0",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Pastillas Anticonceptivas",
+            "thumbail": "/assets/banners/articles/pastillas-anticonceptivas.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre las pastillas anticonceptivas! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/pastillas-anticonceptivas.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-sobre-pastillas-anticonceptivas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Implante Subdérmico",
+            "thumbail": "/assets/banners/articles/implante-subdermico.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre el uso correcto del implante subdérmico! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/implante-subdermico.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-implante-subdérmico",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Inyecciones Anticonceptivas",
+            "thumbail": "/assets/banners/articles/inyecciones-anticonceptivas.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre la inyección anticonceptiva! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/inyecciones-anticonceptivas.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-de-las-inyecciones-anticonceptivas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Anticoncepción de Emergencia",
+            "thumbail": "/assets/banners/articles/anticoncepcion-emergencia.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto de las PAE. ¡Usa Condón, así te proteges de VIH/Sida y de otras ITS! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/anticoncepcion-emergencia.png",
+            "url":"https://mexico.unfpa.org/es/publications-0",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Parche Anticonceptivo",
+            "thumbail": "/assets/banners/articles/parche-anticonceptivo.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre los parches anticonceptivos! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/parche-anticonceptivo.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-parche-anticonceptivo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Condón Masculino",
+            "thumbail": "/assets/banners/articles/condon-masculino.png",
+            "content_preview": "Infórmate y busca mayor orientación sobre el uso correcto del condón masculino. Hay muchas opciones y seguro alguna de ellas se adapta a tus necesidades. ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/condon-masculino.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-condón-masculino",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Condón Femenino",
+            "thumbail": "/assets/banners/articles/condon-femenino.png",
+            "content_preview": "¡Infórmate y busca mayor orientación sobre el uso correcto del condón femenino! ¡Acércate a los Servicios Amigables para Adolescentes en centros de salud y hospitales de la Secretaría de Salud! ¡Sus servicios son gratuitos!",
+            "content": "",
+            "banner": "/assets/banners/articles/condon-femenino.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-del-condón-femenino",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Métodos Permanentes",
+            "thumbail": "/assets/banners/articles/metodos-permanentes.png",
+            "content_preview": "Son métodos denitivos de planicación familiar disponibles para la mujer o para el hombre que ya no desean tener más hijas o hijos. Una vez realizadas las cirugías, tienen efectividad toda la vida.",
+            "content": "",
+            "banner": "/assets/banners/articles/metodos-permanentes.png",
+            "url":"https://mexico.unfpa.org/es/publications/infograf%C3%ADa-de-los-métodos-permanentes",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Planificación Familiar",
+            "thumbail": "/assets/banners/articles/planificacion-familiar.jpg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://mexico.unfpa.org/es/noticias/infograf%C3%AD-planificación-familiar",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo poner un condón",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/9TvSli3XaPE",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "tus_derechos": [
+        {
+            "title":"Cartilla de Derechos Sexuales para Adolescentes",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"http://www.misderechossexuales.com/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"¿Qué es la Ley Olimpia?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/QOXmKAGlqG0",
+            "publish_date": "01/01/2020",
+            "author": "UNFPA",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "covid_19": [
+        {
+            "title":"¿Qué son los coronavirus y cómo cuidarse?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/BEkrm6EwUyU",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"COVID-19: 10 consejos para jóvenes",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infographia-covid-19-consejos-para-personas-jovenes",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"COVID-19: ¿Qué es? ¿Cómo actuar?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/IZHrXZdXu44",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Algunos riesgos de violencia para mujeres y niñas al quedarse en casa",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.unodc.org/documents/mexicoandcentralamerica/2020/Mexico/Infografia_-_Cuales_son_algunos_de_los_riesgos_para_las_mujeres_y_ninas_al_quedarse_en_casa_durante_esta_contingencia_sanitaria.pdf",
+            "publish_date": "01/01/2020",
+            "author": "UNODC",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Cómo utilizar una mascarilla de forma segura",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/RyibBH7stqQ",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Cómo lavar tus manos y alternativas seguras",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/GXqy6xco3B0",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Consejos para enfrentar el estrés ante la pandemia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/8cIhYlwNp8A",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"¿Qué son los coronavirus y cómo cuidarse?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/BEkrm6EwUyU",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"COVID-19 y personas mayores ¿cómo ayudar?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infografia-covid-19-formas-ayudar-personas-mayores-yo-con-enfermedades-subyacentes-que",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"COVID-19 y VIH",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infografia-covid-19-vih",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Nahuatl) ¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/WfocF2onaRU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Maaya t’aan/Maya) ¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/cMxOzXLReKU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Didxazá/Zapoteco) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/gpiU2JlkuOw",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Me`pha) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/m12e8XwuP-Y",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Lengua de señas mexicana) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/vZOwFHCZUrU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(Tu'un Savi) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/PNdBfqBtxXg",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"(P'urhépecha)¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/u6eLE5eL12o",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#F97F06"
+        }
+
+    ],
+
+    "emprendimiento": [
+        {
+            "title":"Conoce sobre Emprendimiento con ODS",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"",
+            "publish_date": "01/01/2020",
+            "author": "Fundación Carlos Slim",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Actividades para hacer en casa",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"",
+            "publish_date": "01/01/2020",
+            "author": "Fundación Carlos Slim",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "miporvenir": [
+        {
+            "title":"¿Cómo construyo mi porvenir?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"",
+            "publish_date": "01/01/2020",
+            "author": "Fundación Carlos Slim",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+
+    "aprendeCosasChidas": [
+        {
+            "title":"Educación y cultura para ti",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Fundación Carlos Slim",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Capacítate",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Fundación Carlos Slim",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Estudia en línea",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Universidad Abierta y a Distancia",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "actividades": [
+        {
+            "title":"Cine en casa",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"Participa en la Conferencia Modelo de las Naciones Unidas #75YAMUN",
+            "thumbail": "/assets/banners/convocatoria-75YAMUN.jpg",
+            "content_preview": "No te pierdas la oportunidad de experimentar la primera asamblea general de la ONU.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.globalmuners.org/75yamun/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "habilidades": [
+        {
+            "title":"Habilidades socioemocionales para jóvenes.",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "zombie_covid_19": [
+        {
+            "title":"COVID-19: 10 consejos para jóvenes",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infographia-covid-19-consejos-para-personas-jovenes",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"COVID-19: ¿Qué es? ¿Cómo actuar?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/IZHrXZdXu44",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"Algunos riesgos de violencia para mujeres y niñas al quedarse en casa",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.unodc.org/documents/mexicoandcentralamerica/2020/Mexico/Infografia_-_Cuales_son_algunos_de_los_riesgos_para_las_mujeres_y_ninas_al_quedarse_en_casa_durante_esta_contingencia_sanitaria.pdf",
+            "publish_date": "01/01/2020",
+            "author": "UNODC",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"Cómo utilizar una mascarilla de forma segura",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/RyibBH7stqQ",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"Cómo lavar tus manos y alternativas seguras",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/GXqy6xco3B0",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"Consejos para enfrentar el estrés ante la pandemia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/8cIhYlwNp8A",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"¿Qué son los coronavirus y cómo cuidarse?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/BEkrm6EwUyU",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"COVID-19 y personas mayores ¿cómo ayudar?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infografia-covid-19-formas-ayudar-personas-mayores-yo-con-enfermedades-subyacentes-que",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"COVID-19 y VIH",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.paho.org/es/documentos/infografia-covid-19-vih",
+            "publish_date": "01/01/2020",
+            "author": "OPS",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Nahuatl) ¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/WfocF2onaRU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Maaya t’aan/Maya) ¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/cMxOzXLReKU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Didxazá/Zapoteco) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/gpiU2JlkuOw",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Me`pha) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/m12e8XwuP-Y",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Lengua de señas mexicana) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/vZOwFHCZUrU",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(Tu'un Savi) ¿Cómo actuar frente a la COVID-19?",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/PNdBfqBtxXg",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"(P'urhépecha)¿Cómo actuar frente a la COVID-19? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/u6eLE5eL12o",
+            "publish_date": "01/01/2020",
+            "author": "MEXFAM",
+            "bgColor": "#42DABF"
+        }
+    ],
+
+    "haz_valer_tus_derechos": [
+        {
+            "title":"Cartilla de Derechos Sexuales para Adolescentes",
+            "thumbail": "",
+            "content_preview": "Cartilla de derechos sexuales de adolescentes y jóvenes",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://mexico.unfpa.org/es/publications/cartilla-de-derechos-sexuales-de-adolescentes-y-j%C3%B3venes",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Derechos Sexuales y Reproductivos",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/rqxlOTegMsg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "conoce_tu_cuerpo": [
+        {
+            "title":"¿Qué sabes sobre el Papanicolau?",
+            "thumbail": "/assets/icon/papanicolau.PNG",
+            "content_preview": "Visitar al ginecólogo puede ser incómodo pero es sumamente necesario.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/nuestros-cuerpos/sabes-todo-sobre-el-papanicolau",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo tener sexo seguro? Aprende a mantenerte protegido",
+            "thumbail": "/assets/icon/comoTenerSexoSeguro.PNG",
+            "content_preview": "Si practicas sexo seguro, podrás disfrutar con tu nueva pareja con más facilidad y estar seguro que protegerás tu cuerpo…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://es.wikihow.com/tener-sexo-seguro",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Conocer tu cuerpo es conocerte a ti mismo",
+            "thumbail": "/assets/banners/articles/conocer-tu-cuerpo-es-conocerte.jpg",
+            "content_preview": "Aprende a conocer tu cuerpo y a identificar lo que te gusta y lo que no.",
+            "content": "<h5>Conocer tu cuerpo es conocerte a ti mismo.</h5><p><b>Aprende a conocer tu cuerpo y a identificar lo que te gusta y lo que no.</b></p><ul class='pl-3'>    <li class='mb-3'>Conocer nuestro cuerpo es identificar lo que nos gusta y lo que no, tanto física como emocionalmente; así como en las relaciones que tenemos con nuestro entorno.</li>    <li class='mb-3'>Es importante que las personas nos sintamos contentas y a gusto con nuestro cuerpo, Es por eso que es importante que lo cuidemos y tratemos de mantenerlo saludable, ya que nos permite sentirnos mejor con nosotros y nosotras mismas.</li>    <li class='mb-3'>Los modelos de belleza que nos presentan en la televisión o en revistas, muchas veces, nos hacen pensar que nuestro cuerpo no es bello. Lo que hace un cuerpo hermoso es su capacidad para expresar, sentir, dar, recibir y comunicar.</li>    <li class='mb-3'>Todo nuestro cuerpo es sensible ante los estímulos sexuales, es decir, que contamos con zonas erógenas en nuestro cuerpo muy sensibles sexualmente, con muchas terminaciones nerviosas y que pueden producir sensaciones muy placenteras.</li>    <li class='mb-3'>Todo el cuerpo puede ser una zona erógena: cabeza, orejas, genitales, espalda, piernas, vientre, pecho solo es una cuestión de gustos, momentos, experiencias, imaginación, fantasías, etc.</li></ul>",
+            "banner": "/assets/banners/articles/conocer-tu-cuerpo-es-conocerte.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/conoce-tu-cuerpo/conocer-tu-cuerpo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Órganos genitales femeninos",
+            "thumbail": "/assets/banners/articles/organos-genitales-femeninos.jpg",
+            "content_preview": "Se clasifican en internos y externos. Conócelos. ",
+            "content": "<h5>Órganos genitales femeninos</h5><p>Los órganos genitales femeninos tienen diferentes características. Se clasifican como órganos internos o externos.</p><p>ÓRGANOS INTERNOS:</p><ul class='pl-3'><li class='mb-3'><strong>Vagina:</strong>Estructura en forma de tubo de unos 10 cm de longitud que comunica el útero con el exterior. Las funciones de la vagina son variadas, es la vía de salida del contenido de la menstruación, permite la introducción del pene durante las relaciones sexuales, es la vía de salida del feto durante el parto y proporciona placer a la mujer.</li><li class='mb-3'><strong>Útero:</strong>Órgano reproductor compuesto fundamentalmente por fibras musculares y con una capa interior que se renueva periódicamente denominada endometrio. Parte de esta capa es la que se libera durante la menstruación. Su extremo inferior limita con la vagina a través del cérvix o cuello uterino y su porción superior está conectada en ambos lados con las trompas de Falopio. La función principal del útero es la de servir de nido al óvulo fecundado.</li><li class='mb-3'><strong>Cérvix</strong>o cuello uterino: Parte inferior del útero que comunica con la vagina y que normalmente está cubierto de una sustancia mucosa que cambia su viscosidad durante el ciclo y que sirve como protección frente a las infecciones. El moco cervical sirve como lubrificante en el momento de la masturbación y de las relaciones sexuales. En la ovulación aparece generalmente la mayor cantidad de moco cervical.</li><li class='mb-3'><strong>Trompas de Falopio:</strong>Estructuras en formas de tubos estrechos que van desde la zona superior del útero al ovario. Su función es la de transportar el óvulo al útero.</li><li class='mb-3'><strong>Ovarios:</strong>Órganos sexuales femeninos situados cerca de las trompas y cuya función es la de secretar hormonas sexuales (estrógenos y progesterona) y proporcionar óvulos para la fecundación.</li><li class='mb-3'><strong>Folículos Ováricos:</strong>Pequeñas bolsas de líquido que posteriormente durante el periodo de ovulación darán lugar al óvulo. Cada bolsa contiene un solo óvulo, que madura cada 28 días, aproximadamente.</li></ul><p>ÓRGANOS EXTERNOS:</p><ul class='pl-3'><li class='mb-3'><strong>Clítoris:</strong>Órgano eréctil situado en la parte superior de los genitales externos femeninos cercano a la unión de los labios menores, que contiene numerosas terminaciones nerviosas y es altamente erógena. Interviene en las relaciones sexuales induciendo placer y orgasmos.</li><li class='mb-3'><strong>Labios mayores y menores:</strong>Los labios mayores y los labios menores, son el repliegue de tejido cutáneo, de tamaños variables, que rodea exteriormente los genitales femeninos.</li><li class='mb-3'><strong>Monte de Venus:</strong>Es el área carnosa localizada encima de la parte superior de la abertura vaginal.</li><li class='mb-3'><strong>Abertura vaginal:</strong>Es el orificio de entrada a la vagina.</li><li class='mb-3'><strong>Uretra:</strong>Aunque no sea un órgano reproductor, la uretra es el conducto por el que pasa la orina en su fase final del proceso urinario desde la vejiga urinaria hasta el exterior del cuerpo durante la micción.</li></ul><p><b><i>Las formas, tamaños y apariencias de los órganos sexuales femeninos varía considerablemente de una persona a otra.</i></b></p>",
+            "banner": "/assets/banners/articles/organos-genitales-femeninos.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/conoce-tu-cuerpo/organos-genitales-femeninos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Órganos genitales masculinos",
+            "thumbail": "/assets/banners/articles/organos-genitales-masculinos.jpg",
+            "content_preview": "Los órganos genitales masculinos son catalogados como órganos internos o externos. ",
+            "content": "<h5>Órganos genitales masculinos</h5><p><b>Los órganos genitales masculinos son catalogados como órganos internos o externos.</b></p><p><b>ÓRGANOS INTERNOS:</b></p><ul class='pl-3'>    <li class='mb-3'><strong>Testículos: </strong>Órganos sexuales masculinos encargados de generar espermatozoides y de la producción de hormonas sexuales masculinas (testosterona). Se encuentran alojados en el escroto.</li>    <li class='mb-3'><strong>El Epidídimo: </strong>Es un órgano que se encuentra en la parte superior y lateral de cada testículo, su función es almacenar espermatozoides para terminar su maduración.</li>    <li class='mb-3'><strong>Conductos deferentes: </strong>Tienen la función de conducir los espermatozoides a las vesículas seminales.</li>    <li class='mb-3'><strong>Vesículas seminales: </strong>Son dos órganos en forma de saco que están al lado de cada conducto deferente cuya función es la de producir un líquido viscoso, llamado líquido seminal que se mezcla con los espermatozoides en el momento de la eyaculación.</li>    <li class='mb-3'><strong>Conducto eyaculador: </strong>Se forma cuando se unen los conductos deferentes con el tubo de cada vesícula seminal, el cual desemboca en la uretra.</li>    <li class='mb-3'><strong>Próstata:</strong>Es una glándula situada por debajo de la vejiga cuya función es la de producir un líquido alcalino que se une al líquido seminal y a los espermatozoides para formar el semen.</li>    <li class='mb-3'><strong>Glándulas bulbo uretrales (de Cowper):</strong> Son dos glándulas del tamaño de una arveja o un guisante situados a los lados de la uretra. Segregan un líquido alcalino en la uretra y se considera que su función es la de neutralizar la acidez de la uretra para el paso de los espermatozoides.</li>    <li class='mb-3'><strong>Uretra:</strong>Conducto que nace en el cuello de la vejiga y termina en el meato urinario. Su función es conducir la orina hacia el exterior, y el semen en el momento de la eyaculación.</li></ul><p><b>ÓRGANOS EXTERNOS:</b></p><ul class='pl-3'>    <li class='mb-3'><strong>Pene: </strong>Es el órgano empleado para la copulación, además, de ser la vía de salida de la orina y el semen. El semen está compuesto por los espermatozoides producidos por los testículos y diversas secreciones de otras glándulas sexuales.</li>    <li class='mb-3'><strong>Prepucio: </strong>Porción de piel que se puede retraer y que cubre parte del pene, generalmente el glande.</li>    <li class='mb-3'><strong>Glande: </strong>También conocido como cabeza del pene, es la última porción y la parte más ancha del cuerpo esponjoso de extrema sensibilidad debido al gran número de terminaciones nerviosas que contiene.</li>    <li class='mb-3'><strong>Frenillo: </strong>Banda de tejido flexible situada en la parte inferior del glande que conecta con el prepucio y que ayuda a deslizar el prepucio sobre el glande.</li>    <li class='mb-3'><strong>Escroto: </strong>Bolsa de tejido cutáneo y muscular que contiene los testículos. Su función es la de mantener a los testículos a una temperatura más baja que la corporal.</li></ul><p><b><i>Las formas, tamaños y apariencias de los órganos sexuales masculinos varía considerablemente de una persona a otra.</i></b></p>",
+            "banner": "/assets/banners/articles/organos-genitales-masculinos.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/conoce-tu-cuerpo/organos-genitales-masculinos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué son los sueños húmedos?",
+            "thumbail": "",
+            "content_preview": "La pubertad en los niños puede comenzar tan pronto como a la edad de nueve y tan tarde como a los 15 años, ¡pero finalmente, todo el mundo la experimenta!",
+            "content": "",
+            "banner": "",
+            "url":"https://amaze.org/es/video/puberty-what-is-wet-dream-mexico/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"La pubertad en las chicas",
+            "thumbail": "",
+            "content_preview": "La pubertad en las niñas puede empezar tan pronto como a los 8 años o tarde, como a los 13 o 14, pero, eventualmente, ¡todas pasan por eso!",
+            "content": "",
+            "banner": "",
+            "url":"https://amaze.org/es/video/boobs-and-more/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Pubertad en las chicas: senos y más",
+            "thumbail": "",
+            "content_preview": "Si tienes entre 9 y 14 años, probablemente has empezado a experimentar la pubertad, o los cambios que ocurren en tu cuerpo cuando pasas de ser niña o niño a adulto joven...",
+            "content": "",
+            "banner": "",
+            "url":"https://amaze.org/es/video/boobs-and-more/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"La pubertad de los chicos",
+            "thumbail": "",
+            "content_preview": "Si tiene entre 10 y 14 años, probablemente ha comenzado a experimentar la pubertad o algunos de los cambios que suceden cuando su cuerpo cambia de un niño a un adulto joven...",
+            "content": "",
+            "banner": "",
+            "url":"https://amaze.org/es/video/puberty-top-signs-boys-are-in-puberty-mexico/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué son la erección, la eyaculación y los sueños húmedos?",
+            "thumbail": "",
+            "content_preview": "Tener una erección, eyacular (venirse), y sueños húmedos son parte normal de la pubertad de todas las personas que tienen un pene. Aquí te contamos de qué se trata cada uno.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/pubertad/que-pasa-con-la-ereccion-eyaculacion-y-suenos-humedos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Son normales mi pene y mis testículos?",
+            "thumbail": "/assets/banners/articles/son-normales-mi-pene-y-mis-testiculos.jpg",
+            "content_preview": "Los penes y testículos (bolas) son diferentes para cada persona. Durante la pubertad, crecen y pueden cambiar ligeramente de color. No tienes necesidad de preocuparte por el tamaño de tu pene; todos los tamaños son normales.",
+            "content": "",
+            "banner": "/assets/banners/articles/son-normales-mi-pene-y-mis-testiculos.jpg",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/pubertad/son-normales-mi-pene-y-mis-testiculos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Mis pechos, ¿son normales?",
+            "thumbail": "",
+            "content_preview": "Los senos y pezones vienen en variedad de tamaños, formas y colores. Durante la pubertad tus pechos se desarrollarán y crecerán. También cambiarán a lo largo de tu vida.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/pubertad/mis-pechos-son-normales",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Mi vulva y vagina, ¿son normales?",
+            "thumbail": "",
+            "content_preview": "Tu vulva y vagina son únicas, tanto como el resto de tu cuerpo. Aquí te contamos todo lo que necesitas saber sobre vulvas, flujo vaginal y cómo cuidar de tus genitales.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/pubertad/mi-vulva-y-vagina-son-normales",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "menstruacion": [
+        {
+            "title":"Periodo Premenstrual",
+            "thumbail": "/assets/banners/articles/el-periodo-premenstrual.jpg",
+            "content_preview": "La menstruación tiene síntomas que pueden afectar a muchas mujeres. Por eso es importante que empieces a conocer estos síntomas…",
+            "content": "<h5>El Periodo premenstrual</h5><p><b>La menstruación tiene síntomas que pueden afectar a muchas mujeres. Por eso es importante que empieces a conocer estos síntomas e identificarlos.</b></p><p>El período premenstrual, también llamado síndrome premenstrual (SPM) consiste en un conjunto de síntomas físicos y psicológicos que afectan a muchas mujeres, que se producen antes de la menstruación y desaparecen con esta. Esto se debe primordialmente a la sensibilidad que la mujer presenta a las fluctuaciones hormonales que se dan durante el ciclo menstrual, específicamente previo al sangrado. Los síntomas del período premenstrual son:</p><p><b>Síntomas fisiológicos:</b></p><ul class='pl-3'>    <li class='mb-3'>Dolor de cabeza.</li>    <li class='mb-3'>Fatiga.</li>    <li class='mb-3'>Dolor en las articulaciones o en los músculos.</li>    <li class='mb-3'>Retención de líquidos y su consecuente aumento de peso.</li>    <li class='mb-3'>Inflamación abdominal.</li>    <li class='mb-3'>Sensibilidad en los senos (en ocasiones hasta dolor).</li>    <li class='mb-3'>Brotes de acné.</li>    <li class='mb-3'>Diarrea o estreñimiento.</li></ul><p><b>Síntomas en el estado de ánimo (psicológicos):</b></p><ul class='pl-3'>    <li class='mb-3'>Ansiedad.</li>    <li class='mb-3'>Tensión.</li>    <li class='mb-3'>Ataques de llanto.</li>    <li class='mb-3'>Tristeza inexplicable.</li>    <li class='mb-3'>Ataques de insomnio.</li>    <li class='mb-3'>Dificultad para concentrarse.</li>    <li class='mb-3'>Aislamiento social.</li>    <li class='mb-3'>Cambios en el apetito, antojos o ansias por comer cierto tipo de alimentos (generalmente muy salados o muy dulces).</li>    <li class='mb-3'>Cambios de humor; irritabilidad, mal humor, impaciencia, entre otros.</li></ul><p><b>Algunas ideas para aliviar posibles molestias físicas y psicológicas del período premenstrual:</b></p><ul class='pl-3'>    <li class='mb-3'>Ejercítate regularmente, en especial los días antes de tu período, esto te ayudará a aliviar los síntomas físicos y psicológicos, y por lo tanto a prevenir el dolor.</li>    <li class='mb-3'>Beber agua en abundancia, alimentarte con una dieta sana, evitar bebidas energizantes, gaseosas y alcohol</li>    <li class='mb-3'>Colocarte una almohadilla térmica o paños calientes en tu espalda o abdomen si sientes dolor.</li>    <li class='mb-3'>Hay infusiones y productos naturales que también son una posibilidad, recuerda siempre consultar con profesionales de la salud.</li>    <li class='mb-3'>En casos de mucho dolor, hay medicamentos específicos para los dolores menstruales. Recuerda no te mediques por tu cuenta, ni tomes pastillas de una amiga.</li>    <li class='mb-3'>También puedes aprovechar estos días, si tienes molestias o dolores para descansar, tomarte ratos para ti y cuidarte, aunque no tuvieras molestias, esos días pueden ser un buen momento para cuidarte y quererte.</li>    <li class='mb-3'>Hay varios métodos para recoger el flujo menstrual como son las toallas sanitarias (son de un material higiénico y absorbente, retienen el sangrado y las hay de varias formas y tamaños), y los tampones, (es un aplicador en forma de tubo, en su interior contiene material absorbente comprimido que se inserta en la vagina y se extrae mediante un cordón). Los tampones sólo son para mujeres sexualmente activas que no tienen himen o sea ya no son vírgenes. Cada mujer tiene sus preferencias, se trata de encontrar el que te haga sentir más cómoda.</li>    <li class='mb-3'>A pesar de que la menstruación es un proceso natural, salud y desarrollo adecuado, socialmente han existido mitos y falsas creencias en torno a ella, lo que ha influido notablemente en cómo viven las mujeres este hecho biológico natural. Se convierte en un tabú más, rodeado de secretismo y vergüenza, sin que existan motivos reales para ello.</li></ul>",
+            "banner": "/assets/banners/articles/el-periodo-premenstrual.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/menstruacion/periodo-premenstrual",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Periodo con retraso o embarazo?",
+            "thumbail": "/assets/icon/retraso.PNG",
+            "content_preview": "La mayoría de las mujeres tienen un retraso o una falta por lo menos una vez sin estar embarazadas, y es totalmente normal.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/quedarse-embarazada/intentando-concebir/sintomas-del-embarazo/periodo-con-retraso-o-embarazo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cambios producidos durante el ciclo menstrual",
+            "thumbail": "/assets/banners/articles/cambios-producidos-durante-el-ciclo-menstrual.jpg",
+            "content_preview": "Durante el ciclo menstrual se producen diversos cambios en el cuerpo de la mujer que debes conocer. Durante la pubertad…",
+            "content": "<h5>Cambios producidos durante el ciclo menstrual</h5><p>Durante el ciclo menstrual se producen diversos cambios en el cuerpo de la mujer que debes conocer.</p><p>Durante la pubertad los óvulos que la mujer alberga en sus ovarios comienzan a madurar. A partir de ese momento, cada mes, un ovario liberará un óvulo maduro (ovulación). Este óvulo viajará hasta el útero por las trompas de Falopio, el cual nos encontramos con dos posibilidades:</p><ul class='pl-3'>    <li class='mb-3'><strong>El óvulo es fecundado: </strong>Si en este tránsito por las trompas el óvulo se une con un espermatozoide (células sexuales masculinas) se producirá la fecundación. El óvulo fecundado bajará hasta el útero en el que se implantará adhiriéndose a un revestimiento que se ha generado en las paredes del útero para acoger al óvulo fecundado. A partir de este momento comenzará el embarazo que dará lugar a un nuevo ser durante los nueve meses siguientes. Durante el embarazo los ovarios no liberarán más óvulos y por lo tanto no tendrá lugar el ciclo menstrual. Por esto mismo, el primer síntoma para una mujer de que posiblemente esté embarazada es que su ciclo menstrual se ha detenido.</li>    <li class='mb-3'><strong>El óvulo no es fecundado: </strong>Si el óvulo no se une a un espermatozoide se descompone y se mezcla con la sangre y otros tejidos que forman el revestimiento del útero. Este fluido sale del útero, atraviesa la vagina y abandona el cuerpo. El óvulo y el revestimiento del útero no han sido utilizados para producir y albergar un embarazo, por lo tanto, el cuerpo se desprende de ellos. Al próximo mes comienza de nuevo el mismo proceso.</li>    <li class='mb-3'>Como todas las mujeres son diferentes, también los períodos y los ciclos menstruales lo son. La edad de la primera menstruación, la frecuencia, la cantidad de flujo, la duración, etc. no son iguales para todas las mujeres, ni tampoco todas las reglas son iguales para una misma mujer. Se trata de ir conociendo tu propio ciclo.</li>    <li class='mb-3'>Como las personas crecemos y nos desarrollamos a ritmos diversos, cada adolescente alcanza su primera regla en el momento que alcanza el desarrollo necesario. Esto suele suceder entre los 10 y 15 años, aunque a muchas adolescentes les ocurrió antes y a otras después. Durante el ciclo menstrual, el cuerpo experimenta algunos cambios. Estos cambios pueden pasar desapercibidos o no, depende de cada mujer.</li></ul>",
+            "banner": "/assets/banners/articles/cambios-producidos-durante-el-ciclo-menstrual.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/menstruacion/cambios-ciclo-menstrual",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"La Menstruación",
+            "thumbail": "/assets/banners/articles/la-menstruacion.jpg",
+            "content_preview": "La menstruación es una consecuencia del desarrollo de las mujeres. Hay mucho que aprender acerca del ciclo menstrual y es…",
+            "content": "<h5>La Menstruación</h5><p><b>La menstruación es una consecuencia del desarrollo de las mujeres. Hay mucho que aprender acerca del ciclo menstrual y es por eso que te compartimos información al respecto:</b></p><ul class='pl-3'>    <li class='mb-3'>La menstruación, también llamada regla o periodo es una consecuencia del desarrollo y del crecimiento de las mujeres, que comienza en algún momento de la pubertad (entre los 10 a 15 años aproximadamente), y consiste en el sangrado que cada mes aproximadamente fluye desde el útero a través de la pequeña abertura del cuello uterino y sale del cuerpo a través de la vagina. La sangre menstrual es en parte sangre y en parte del tejido del interior del útero.</li>    <li class='mb-3'>La primera menstruación (también llamada menarquia) responde a cambios fisiológicos propios del crecimiento, el cual marca el comienzo de la etapa fértil, en la que una mujer puede quedar embarazada. Esta etapa fértil durará hasta que la menstruación se retire (lo que se conoce con el nombre de menopausia) alrededor de los cincuenta años.</li>    <li class='mb-3'>El ciclo menstrual es el proceso cíclico que se repite cada mes, a través del cual el cuerpo de las mujeres se prepara mensualmente para un posible embarazo. Cada ciclo comienza el primer día que te viene la regla y dura hasta el comienzo de la siguiente, aproximadamente 28 días (sin embargo, un ciclo puede durar entre 23 y 35 días). Podemos establecer una duración media del sangrado de 3 a 5 días. Es importante que conozcas si tus ciclos son regulares, es decir, si duran aproximadamente lo mismo cada vez.</li>    <li class='mb-3'>Muchas adolescentes marcan en el calendario el día de sus ciclos, así tienen un registro para ir conociéndolos y disponen de información por si en algún momento la necesitan: para calcular su próxima menstruación, para saber si está teniendo ciclos regulares, por si tienen que consultar algo relacionado con su salud.</li></ul> ",
+            "banner": "/assets/banners/articles/la-menstruacion.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/menstruacion/la-menstruacion",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Es normal que se retrase mi menstruación? ",
+            "thumbail": "/assets/icon/queseretrase.PNG",
+            "content_preview": "¿Cuántos días se puede retrasar la regla antes de ser preocupante? 7 causas del retraso en la menstruación",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/salud/menstruacion/7-causas-del-retraso-en-la-menstruacion",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Puede el estrés retrasar mi menstruación? ",
+            "thumbail": "/assets/icon/cuantotiempo.PNG",
+            "content_preview": "El ciclo menstrual promedio es de 28 días, aunque es habitual que un ciclo normal dura entre 21 y 35 días. Esto puede variar unos pocos días cada ciclo sin que se considere que hay un retraso menstrual.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/salud/menstruacion/uanto-tiempo-se-puede-retrasar-el-periodo-debido-al-estres",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Te vino un flujo marron en vez de la menstruacion? Lo que necesitas saber:",
+            "thumbail": "/assets/icon/estarembarazadayTenerPeriodo.PNG",
+            "content_preview": "Muchas mujeres se preguntan: ¿puedo estar embarazada y tener menstruación? A pesar de todo lo que se dice, no puedes estar embarazada y tener la regla. Sin embargo, sí es habitual presentar un manchado leve que es de color marrón oscuro o rosa claro durante las primeras etapas del embarazo.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/salud/menstruacion/puedes-estar-embarazada-y-tener-periodo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Es normal que te duelan los pechos?",
+            "thumbail": "/assets/icon/dolorPechos.PNG",
+            "content_preview": "Quizás tengas dolor de pechos antes, durante o después de la menstruación. También puede que tengas los pechos doloridos durante el embarazo. ¿Cómo puedes saber qué significa este dolor? Descubramos las causas del dolor de pechos antes de la menstruación vs. durante el embarazo temprano y otros síntomas.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/salud/sintomas-y-enfermedades/porque-duelen-los-pechos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Por qué sangro después de tener relaciones sexuales?",
+            "thumbail": "/assets/icon/porquesangro.PNG",
+            "content_preview": "El sangrado vaginal después del sexo también se llama sangrado postcoital, y estas pueden ser las causas.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/sexo/salud-sexual/sangrado-vaginal-despues-del-sexo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Puedo tener relaciones durante la menstruación?",
+            "thumbail": "/assets/icon/relacionesdurante.PNG",
+            "content_preview": "Tener relaciones sexuales mientras estás con la menstruación tiene ventajas y desventajas. Descubre todo sobre ello y encuentra consejos de expertos sobre cómo tener sexo cuando tienes la menstruación en nuestro artículo más reciente. Y recuerda: ¡aún puedes quedarte embarazada si tienes relaciones sexuales aunque estés menstruando!",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/sexo/salud-sexual/pros-y-contras-del-sexo-durante-la-menstruacion",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿A que se debe el flujo vaginal? Cuando es normal y cuándo ir al médico",
+            "thumbail": "/assets/icon/flujo.PNG",
+            "content_preview": "¿Te suena esa sustancia pegajosa que a menudo tienes en la ropa interior? ¿Qué es? ¿Por qué la tenemos? ¿Cuándo no es normal?",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/salud/flujo-vaginal/flujo-vaginal-normal",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo se usan los tampones, las toallas sanitarias y las copas menstruales?",
+            "thumbail": "",
+            "content_preview": "Las toallas sanitarias, los tampones y las copas menstruales (a veces, denominados “productos de higiene femenina”) absorben y recogen la sangre y el tejido que sale de la vagina durante el periodo menstrual.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/salud-y-bienestar/menstruacion/como-se-usan-los-tampones-las-toallas-sanitarias-y-las-copas-men",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué puedo hacer para combatir los cólicos y el síndrome premenstrual (SPM)?",
+            "thumbail": "",
+            "content_preview": "Hay quienes se ponen sensibles y tienen cólicos antes del periodo menstrual y durante este. Esto a veces se denomina “síndrome premenstrual” (SPM). Los cólicos y el síndrome premenstrual son normales y pueden tratarse.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/salud-y-bienestar/menstruacion/que-puedo-hacer-para-combatir-los-colicos-y-el-sindrome-premenst",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "mi_primera_vez": [
+        {
+            "title":"¿Tu primera vez? ¿Qué sucede? Hombres",
+            "thumbail": "/assets/icon/primeravezHombres.PNG",
+            "content_preview": "Las relaciones sexuales son para divertirse y para disfrutar. La primera vez puede que no sea perfecta, pero tienes tiempo para perfeccionar tus técnicas.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/hacer-el-amor/la-primera-vez-de-los-chicos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué sucede cuando tienes sexo por primera vez? Mujeres",
+            "thumbail": "/assets/icon/queSucede.PNG",
+            "content_preview": "Cuando mantienes relaciones sexuales, puedes experimentar un aumento en la sensibilidad de las zonas erógenas",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://flo.health/es/tu-ciclo/sexo/salud-sexual/que-sucede-cuando-tienes-sexo-por-primera-vez",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es el deseo sexual?",
+            "thumbail": "/assets/deseoSexual.jpg",
+            "content_preview": "El deseo sexual se puede experimentar de diferentes maneras.  El deseo sexual es una emoción, un impulso, una fuerza que nos mueve al encuentro íntimo con nosotros o nosotras mismas o con otras personas..",
+            "content": "<h6>¿Qué es el deseo sexual? </h6> <p>El deseo sexual se puede experimentar de diferentes maneras.</p> <ul class='pl-3'> <li class='mb-3'> Podemos decidir experimentar nuestra sexualidad a través de diversas prácticas sexuales o también aplazarlo.</li> <li class='mb-3'>Podemos sentir deseo al ver a alguien, al estar en contacto con otra persona, al imaginar y también al recordar, nuestro cuerpo reacciona ante un estímulo cualquiera y en la adolescencia esto ocurre con frecuencia. Nuestros cuerpos reaccionan de diferentes maneras, nuestra respiración cambia, el pulso, puede haber erección en los pezones, el clítoris, el pene, lubricación en la vagina, etc.</li> <li class='mb-3'>Cada persona tiene derecho a sentir, vivir y expresar su deseo sexual con respeto y en libertad, y es responsabilidad de todas las personas hacer que esto sea posible.</li> <li class='mb-3'>Existen muchas maneras de experimentar relaciones sexuales, como puede ser una caricia suave, el coito vaginal o anal, besos, ver y sentir lo que te gusta, un recuerdo, masturbarte, el sexo oral e infinidad de posibilidades más.</li> <li class='mb-3'>La masturbación es una práctica sexual normal y saludable a una edad en la que se tenga conocimiento respecto a la sexualidad,  para muchas personas jóvenes, suele ser una de las principales maneras de empezar a experimentar y explorar con sus cuerpos. Para poder descubrir sensaciones placenteras y satisfacer nuestro deseo sexual la masturbación es una conducta que para muchas puede ser agradable y satisfactoria, mientras que para otras no. Lo importante es que cada persona se sienta libre para elegir y experimentar con libertad con sus cuerpos.</li> <li class='mb-3'>Cuando decides conjuntamente tener una relación sexual segura con la persona que te gusta o con tu novio o novia, comienza una relación en confianza para poder imaginar, fantasear, de sentirnos queridos y queridas, deseados y deseadas, etc.</li> </ul>  ",
+            "url": "/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/primera-vez/deseo-sexual",
+            "banner": "/assets/deseoSexual.jpg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Cómo saber si estás listo para tener sexo",
+            "thumbail": "/assets/icon/saberSiestasListo.PNG",
+            "content_preview": "El sexo puede ser maravilloso, si estás listo para ser sexualmente activo. Si no estás listo, puede causar consecuencias graves",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://es.wikihow.com/saber-si-estás-listo-para-tener-sexo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo tener sexo seguro? Aprende a mantenerte protegido",
+            "thumbail": "/assets/icon/comoTenerSexoSeguro.PNG",
+            "content_preview": "Si practicas sexo seguro, podrás disfrutar con tu nueva pareja con más facilidad y estar seguro que protegerás tu cuerpo…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://es.wikihow.com/tener-sexo-seguro",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo poner un condón",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/9TvSli3XaPE",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo poner un condón en 5 pasos",
+            "thumbail": "",
+            "content_preview": "¿Sabes cómo poner un condón?. La mayoría de las veces que un condón se rompe o no funciona es porque se colocó mal. Y en realidad es algo MUY sencillo. ¡Revisa tu técnica en este video de Sexplaining!",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=Mok-B-ge0n0&has_verified=1",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Consejos y qué tomar en cuenta en tu primera vez",
+            "thumbail": "",
+            "content_preview": "¿La primera vez es horrible? ¿Es un pecado? ¿Qué debo de tomar en cuenta para mi primera vez? ¿Cómo cuidarme?. En este video, hablamos sobre algunos mitos y damos algunos consejos para que puedas tener una gran primera vez (y, en general, cosas para tener en cuenta para cualquier relación sexual).",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=_9rdEu1Kj0Q",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo hablo con mi pareja sobre sexo?",
+            "thumbail": "",
+            "content_preview": "Hablar con tu pareja sobre lo que te gusta y lo que no, y sobre cuáles son tus límites, te ayuda a construir una relación sana y a tener una vida sexual que te haga sentir bien.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/sexo-placer/sexo-y-placer/como-hablo-con-mi-pareja-sobre-sexo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué significa ser virgen?",
+            "thumbail": "",
+            "content_preview": "Una persona virgen es aquella que nunca ha tenido sexo. Sin embargo, las personas definen “sexo” y “perder la virginidad” de maneras muy variadas.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/sexo/virginidad",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "infecciones_transmision_sexual": [
+        {
+            "title":"¿Qué son las infecciones de transmisión sexual?",
+            "thumbail": "/assets/banners/articles/que-son-las-infecciones-de-transmision-sexual.jpg",
+            "content_preview": "Existen diferentes infecciones de transmisión sexual. Conoce qué debes hacer para prevenirlas y tratarlas.",
+            "content": "<h5>¿Qué son las infecciones de transmisión sexual?</h5><p><b>Existen diferentes infecciones de transmisión sexual. Conoce qué debes hacer para prevenirlas y tratarlas.</b></p><ul class='pl-3'><li class='mb-3'>Si tienes relaciones sexuales sin protección, es decir, sin condón, puedes estar expuesto a contraer alguna infección de transmisión sexual.</li><li class='mb-3'>Las infecciones tienen múltiples síntomas que puedes detectar fácilmente. Conoce cuáles son y cómo identificarlos.</li></ul><iframe width='560' height='315' src='https://www.youtube.com/embed/tdnR2o2IPE4' frameborder='20' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "banner": "/assets/banners/articles/que-son-las-infecciones-de-transmision-sexual.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/infecciones-transmision-sexual/que-son-its",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué hacer si descubres que tienes una ITS?",
+            "thumbail": "/assets/banners/articles/que-hacer-si-descubres.jpg",
+            "content_preview": "Hay muchas clases de infecciones de transmisión sexual, ¿sabes qué hacer si contraes alguna de ellas?",
+            "content": "<h5>¿Qué hacer si descubres que tienes una infección de transmisión sexual?</h5><p>Aprende a identificar las principales infecciones de transmisión sexual, pero recuerda, lo más importante es no quedarte callado. Infórmate y busca ayuda. Protégete y visita el Centro de Salud más cercano.</p><ul class='pl-3'><li class='mb-3'>En Mirada Joven tenemos una herramienta que te ayudará a ubicar los <a href='https://miradajoven.org/servicios-amigables' target='_blank'>servicios de salud amigables</a> más cercanos a ti.</li></ul><iframe width='560' height='315' src='https://www.youtube.com/embed/tdnR2o2IPE4' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "banner": "/assets/banners/articles/que-hacer-si-descubres.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/cuidando-mi-cuerpo/infecciones-transmision-sexual/que-hacer-its",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo vivir con VIH o Sida",
+            "thumbail": "",
+            "content_preview": "Si recientemente te diagnosticaron VIH o sida, es perfectamente normal que te sientas como si el mundo te cayese encima",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://es.wikihow.com/vivir-con-VIH-o-sida",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Infección por el Virus del Papiloma Humano",
+            "thumbail": "",
+            "content_preview": "La Infección por el Virus del Papiloma Humano es una enfermedad causada por el VPH, que es un Virus de…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.1doc3.com/enfermedad/infeccion-por-el-virus-del-papiloma-humano",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"COVID-19 y VIH",
+            "thumbail": "/assets/banners/articles/covid-19-y-vih.png",
+            "content_preview": "Si estás en tratamiento para el VIH y estás clínica e inmunológicamente estable, no hay evidencia hasta el momento que indique que estés en mayor riesgo de presentar síntomas graves de COVID-19 que la población general.",
+            "content": "",
+            "banner": "/assets/banners/articles/covid-19-y-vih.png",
+            "url":"https://www.paho.org/es/documentos/infografia-covid-19-vih",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Manual de autocuidado para mujeres con VIH",
+            "thumbail": "",
+            "content_preview": "Cuando se adquiere el VIH puede no haber síntomas y aunque no tiene cura, es posible controlar al virus por medio del tratamiento antirretroviral (ARV)...",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/Manual%20de%20autocuidado%20para%20mujeres%20con%20VIH.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Embarazo VIH",
+            "thumbail": "",
+            "content_preview": "Las mujeres que viven con VIH tienen el derecho a una vida sana y sin discriminación como parte de sus derechos humanos.",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/Comic%20Embarazo%20VIH%202018_0.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "modo_cachondo": [
+        {
+            "title":"¿Qué es el deseo sexual?",
+            "thumbail": "/assets/deseoSexual.jpg",
+            "content_preview": "El deseo sexual se puede experimentar de diferentes maneras.  El deseo sexual es una emoción, un impulso, una fuerza que nos mueve al encuentro íntimo con nosotros o nosotras mismas o con otras personas..",
+            "url": "/como-me-siento/amigxs-o-novixs/sexualidad/modo-cachondo/deseo-sexual",
+            "content": "<h6>¿Qué es el deseo sexual? </h6> <p> El deseo sexual se puede experimentar de diferentes maneras.</p> <ul class='pl-3'> <li class='mb-3'> Podemos decidir experimentar nuestra sexualidad a través de diversas prácticas sexuales o también aplazarlo.</li> <li class='mb-3'>Podemos sentir deseo al ver a alguien, al estar en contacto con otra persona, al imaginar y también al recordar, nuestro cuerpo reacciona ante un estímulo cualquiera y en la adolescencia esto ocurre con frecuencia. Nuestros cuerpos reaccionan de diferentes maneras, nuestra respiración cambia, el pulso, puede haber erección en los pezones, el clítoris, el pene, lubricación en la vagina, etc.</li> <li class='mb-3'>Cada persona tiene derecho a sentir, vivir y expresar su deseo sexual con respeto y en libertad, y es responsabilidad de todas las personas hacer que esto sea posible.</li> <li class='mb-3'>Existen muchas maneras de experimentar relaciones sexuales, como puede ser una caricia suave, el coito vaginal o anal, besos, ver y sentir lo que te gusta, un recuerdo, masturbarte, el sexo oral e infinidad de posibilidades más.</li> <li class='mb-3'>La masturbación es una práctica sexual normal y saludable a una edad en la que se tenga conocimiento respecto a la sexualidad,  para muchas personas jóvenes, suele ser una de las principales maneras de empezar a experimentar y explorar con sus cuerpos. Para poder descubrir sensaciones placenteras y satisfacer nuestro deseo sexual la masturbación es una conducta que para muchas puede ser agradable y satisfactoria, mientras que para otras no. Lo importante es que cada persona se sienta libre para elegir y experimentar con libertad con sus cuerpos.</li> <li class='mb-3'>Cuando decides conjuntamente tener una relación sexual segura con la persona que te gusta o con tu novio o novia, comienza una relación en confianza para poder imaginar, fantasear, de sentirnos queridos y queridas, deseados y deseadas, etc.</li> </ul>  ",
+            "banner": "/assets/deseoSexual.jpg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Tips para hacer sexting seguro",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/P-d1poJXgNg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es un orgasmo?",
+            "thumbail": "",
+            "content_preview": "Un orgasmo es lo que pasa normalmente cuando llegas a la parte más intensa de la excitación sexual. Normalmente se siente muy bien. Cuando tienes un orgasmo (llegas o te vienes), la tensión sexual sube hasta que llega a su punto más alto y ahí es cuando se libera la presión de tu cuerpo y genitales.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/sexo-placer/sexo-y-placer/los-orgasmos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es el sexo?",
+            "thumbail": "",
+            "content_preview": "El sexo es como una cebolla, y no solo porque huele feo y te hace llorar, sino porque tiene capas.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=gzfwVVHDsbA",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Respuesta sexual humana",
+            "thumbail": "",
+            "content_preview": "¿Sabes qué le pasa al cuerpo cuando va al espacio? Probablemente sí. O tengas alguna idea. Pero, ¿sabes qué le pasa a tu cuerpo cuando tienes sexo?",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=eokGZST3hiM",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Masturbarse es normal?",
+            "thumbail": "",
+            "content_preview": "Hoy, en Sexplaining, los secretos más sucios y los beneficios más ricos de hacer justicia por propia mano en este capítulo dedicado a la masturbación.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.youtube.com/watch?v=SuaQ4_wHIQk",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Masturbación: Completamente sana y normal",
+            "thumbail": "",
+            "content_preview": "Si tiene entre 10 y 14 años, probablemente ha comenzado a experimentar la pubertad o algunos de los cambios que suceden cuando su cuerpo cambia de un niño a un adulto joven. O quizás, no tenga cambios. De cualquier manera, ¡no se preocupe! La pubertad en los niños puede comenzar tan pronto como a la edad de nueve y tan tarde como a los 15 años, ¡pero finalmente, todo el mundo la experimenta!",
+            "content": "",
+            "banner": "",
+            "url":"https://amaze.org/es/video/masturbacion-completamente-normal/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué sucede si ves porno?",
+            "thumbail": "",
+            "content_preview": "La pornografía puede llevar a que tengas ideas poco saludables sobre el sexo, las relaciones y el género si no estás listo/a para pensar respecto a lo que estás viendo. Esto ocurre porque puede ser muy fácil confundir la pornografía con la vida real e incluso comenzar a pensar que lo que sucede en el porno es lo que se supone debe ocurrir en el sexo de la vida real. En realidad existen grandes diferencias entre el sexo del porno y el de la vida real.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/sexo/porno",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"La masturbación",
+            "thumbail": "",
+            "content_preview": "Masturbarse (o tocarte para darte placer sexual) es totalmente normal, sin importar si tienes sexo con otras personas o no. La masturbación incluso tiene beneficios para tu salud, cómo reducir el estrés.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/sexo-placer/la-masturbacion",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo hablo con mi pareja sobre sexo?",
+            "thumbail": "",
+            "content_preview": "Hablar con tu pareja sobre lo que te gusta y lo que no, y sobre cuáles son tus límites, te ayuda a construir una relación sana y a tener una vida sexual que te haga sentir bien.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/sexo-placer/sexo-y-placer/como-hablo-con-mi-pareja-sobre-sexo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "diversidades_sexuales": [
+        {
+            "title":"Creo que soy gay",
+            "thumbail": "/assets/icon/creoqueSoyGay.PNG",
+            "content_preview": "¡Ser gay está completamente bien! Es normal y no es nada nuevo - las personas gais siempre han existido. Descubrir tu género puede ser difícil, confuso o llevar tiempo. Puedes no saber qué nombres ponerles a tus sentimientos. Y está bien.",
+            "content": "",
+            "banner": "/assets/icon/creoqueSoyGay.PNG",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-GAY-spanish.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Creo que soy lesbiana",
+            "thumbail": "/assets/icon/creoqueSoyLesbiana.PNG",
+            "content_preview": "¡Ser lesbiana está definitivamente bien! Es completamente normal y no es nada nuevo - las lesbianas siempre han existido. Descubrir tu orientación sexual puede ser difícil, confuso o llevar tiempo. Y está bien.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Lesbian-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Creo que soy bisexual",
+            "thumbail": "/assets/icon/creoqueSoyBisexual.PNG",
+            "content_preview": "¡Ser bisexual está definitivamente bien! Es completamente normal y no es nada nuevo - la bisexualidad siempre ha existido. Descubrir tu orientación sexual puede ser difícil, confuso o llevar tiempo. Y está bien. Algunas personas saben desde pequeñas que no les atrae el género ‘opuesto’.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Bisexual-Pansexual-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Creo que soy transgénero",
+            "thumbail": "/assets/icon/creoqueSoyTrasgenero.PNG",
+            "content_preview": "Ser trans es completamente normal – ¡y no es nada nuevo! Desde que la gente existe, han existido las personas que no tienen una concepción convencional de su género, en muchas culturas y lugares diferentes. Descubrir tu género puede ser difícil o confuso. Muchas personas transgénero saben desde muy pequeñas que no se identifican con su sexo y/o género asignado al nacer.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-Trans-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Creo que soy asexual",
+            "thumbail": "/assets/icon/creoqueSoyAsexual.PNG",
+            "content_preview": "¡La asexualidad es completamente normal! Es una orientación sexual sana al igual que ser gay o heterosexual y puedes tener relaciones normales. Puede ser confuso, tratar de descubrir si eres asexual, en especial dado que el sexo es tan predominante en nuestra cultura. Puede ser difícil o llevar tiempo, ¡y está bien! Algunas personas saben desde pequeñas que no lo son y otras no lo descubren hasta más adelante.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://advocatesforyouth.org/wp-content/uploads/2019/06/ITIMB-ACE-spanish-translation.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Necesidades de salud sexual de mujeres lesbianas y bisexuales",
+            "thumbail": "",
+            "content_preview": "Balance realizó en el 2011 un “Protocolo de atención: lesbianas y mujeres bisexuales” nuestra intención es retomar lo que consideramos más importante de ahí, para que lo conozcas y puedas identificar qué pedir en los servicios de salud.",
+            "content": "",
+            "banner": "",
+            "url":"https://balancemx.org/es/publicaciones/las-mujeres-tambien-nos-gustan-solo-las-mujeres",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Estereotipos de rol de género",
+            "thumbail": "",
+            "content_preview": "Nuestra sociedad tiene un conjunto de ideas sobre cómo se espera que los hombres y las mujeres se vistan, se comporten y se presenten.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/orientacion-sexual-y-genero/genero-e-identidad-de-genero/que-son-los-estereotipos-de-rol-de-genero",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "violencia_digital": [
+        {
+            "title":"¿Qué es la violencia digital y cómo actuar ante ella?",
+            "thumbail": "",
+            "content_preview": "Son actos de violencia de género cometidos, instigados o agravados en parte o totalmente por el uso de las TIC",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://luchadoras.mx/toolkit-de-cuidados-digitales/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"13 formas de agresión digital",
+            "thumbail": "",
+            "content_preview": "Para nosotras, el primer paso para combatir la violencia es aprender a identificarla, y en este post te queremos compartir el trabajo de investigación que hemos hecho para entenderla.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://luchadoras.mx/13-formas-violencia-linea-las-mujeres/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Efectos de la violencia en línea",
+            "thumbail": "",
+            "content_preview": "¿Te revisa el email?, ¿Te pide tu contraseña?, ¿Monitorea todo lo que estás haciendo en Facebook?, Amiga, eso se llama violencia: violencia en línea, violencia digital o violencia cibernética.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://luchadoras.mx/virtual-real-violencia-linea-las-mujeres/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Cómo denunciar si quieren difundir fotos intímas?",
+            "thumbail": "/assets/banners/articles/denunciar-fotos-intimas.jpg",
+            "content_preview": "¿Alguien te amenaza con publicar tus fotos sin consentimiento o se hacen pasar por ti o una amiga?",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.instagram.com/p/CBjX4a1j-tT/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Bullying en las Redes Sociales: ¿qué hacer?",
+            "thumbail": "",
+            "content_preview": "El bullying (intimidación) en las redes sociales causa el mismo daño que otros tipos de bullying -a veces es aún peor-. Esto se debe a que es difícil evitarlo y puede alcanzar a una persona no importa dónde esté o qué se esté haciendo.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/bullying-seguridad-y-privacidad/bullying/bullying-en-las-redes-sociales",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué es la Ley Olimpia? ",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/QOXmKAGlqG0",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "violencia_de_genero": [
+        {
+            "title":"¿Qué hacer y dónde ir en caso de abuso sexual?",
+            "thumbail": "/assets/banners/articles/tiempo-fuera.png",
+            "content_preview": "Un abuso sexual o violación no tiene justificación ni excusa, a través de esta ruta conseguirás apoyo para que sepas qué puedes hacer y a quiénes puedes recurrir después de este evento. Recuerda, nada de lo sucedido es tu culpa y existen personas dispuestas a ayudarte",
+            "content": "",
+            "banner": "",
+            "url":"https://tiempofuera.mx/#/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"No estás sola",
+            "thumbail": "",
+            "content_preview": "Durante el #COVID19, también pongamos el foco en #LaOtraPandemia: la violencia contra mujeres y niñas.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/h0IS3dG3bls",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Autocuidado y prevención de la violencia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/VZt1_qriSmU",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Identifica los tipos de violencia contra mujeres y niñas",
+            "thumbail": "",
+            "content_preview": "¿Cuáles son algunos de los riesgos para las mujeres y niñas al quedarse en casa durante esta contingencia sanitaria? Las mujeres y las niñas son más propensas a sufrir algún tipo violencia en el ámbito privado.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.unodc.org/documents/mexicoandcentralamerica/2020/Mexico/Infografia_-_Cuales_son_algunos_de_los_riesgos_para_las_mujeres_y_ninas_al_quedarse_en_casa_durante_esta_contingencia_sanitaria.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+    "violencia_en_pareja": [
+        {
+            "title":"¿Qué pasaría si los hombres fueran mujeres?",
+            "thumbail": "/assets/icon/quepasarianota.PNG",
+            "content_preview": "Si te han enseñado a ser un hombre pensando que el cuerpo de las mujeres te pertenecen, y que las…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-pasaria-si-los-hombres-fueran-mujeres",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Incómodx? Decir no está bien",
+            "thumbail": "/assets/icon/decirnonota.PNG",
+            "content_preview": "No hagas nada que no quieras. Atrévete a decir ‘no’ o ‘para’, así sabrán que no quieres. Es común en…",
+            "content": "",
+            "banner": "/assets/banners/articles/decir-que-no.jpg",
+            "url":"https://hablemosdesexo.com/hacer-el-amor/decir-que-no",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"¿Qué son los micromachismos?",
+            "thumbail": "/assets/icon/micromachismosnota.PNG",
+            "content_preview": "Existe un machismo que por su menor intensidad pasa desapercibido, lo vivimos día a día y por lo tanto, cada…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-son-los-micromachismos",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Machismo y sus tipos",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Acoso Sexual",
+            "thumbail": "/assets/icon/acososecualnota.PNG",
+            "content_preview": "Una pareja que no escucha cuando le dices que no tienes deseos. Y por supuesto, la agresión sexual, o violación….",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Siento celos, ¿es normal?",
+            "thumbail": "/assets/icon/Ccelosnota.PNG",
+            "content_preview": "Un poco de celos es común si tienes sentimientos fuertes hacia alguien. Pero cuando los celos van demasiado lejos, podría…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/problemas-de-relacion/celos-y-otros-problemas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Cómo reconocer una relación tóxica",
+            "thumbail": "/assets/icon/RELACIONTOXICANOTA.PNG",
+            "content_preview": "Una relación tóxica es una en la que al menos una persona se siente controlada, manipulada o constantemente menospreciada",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://es.wikihow.com/reconocer-una-relación-tóxica",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Levanta la voz",
+            "thumbail": "/assets/icon/LEVANTALAVOZNOTA.PNG",
+            "content_preview": "En una relación, no tienes que tener sexo con tu pareja cuando él o ella quiera, si te pide tener…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/levanta-la-voz",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Relaciones abusivas",
+            "thumbail": "/assets/icon/relacionabusivanota.PNG",
+            "content_preview": "El abuso viene en muchas formas: física, emocional o sexual. Las relaciones abusivas pueden ser difíciles de reconocer",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/relaciones-abusivas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Respetar tu cuerpo y el de los demás",
+            "thumbail": "/assets/banners/articles/respetar-tu-cuerpo-y-el-de-los-y-las-demas.jpg",
+            "content_preview": "Aprende a respetar tu cuerpo y el de los demás. Tu cuerpo también es un medio de comunicación con…",
+            "content": "<h5>Respetar tu cuerpo y el de los demás.</h5><p><b>Aprende a respetar tu cuerpo y el de los demás.</b></p><ul class='pl-3'>    <li class='mb-3'>Tu cuerpo también es un medio de comunicación con las otras personas. El respeto a las demás personas implica escuchar y tomar en cuenta sus decisiones, opiniones, sentimientos y espacios personales.</li>    <li class='mb-3'>Relacionarse con las demás personas es una oportunidad para comunicarse, respetar y mantener relaciones saludables e igualitarias.</li>    <li class='mb-3'>El cuerpo de cada persona es su “Espacio Personal” y nadie puede tocar el cuerpo de otra persona si eso la hace sentir incómodo.</li>    <li class='mb-3'>Es muy importante aprender a decir “NO” frente a caricias, palabras, hostigamiento o peticiones que nos hacen sentir incómodos o incómodas. El acoso es ofensivo y todas las personas tenemos que ayudar a evitarlo. Habla con un adulto de confianza si en algún momento te has sentido incómodo ante el acoso de cualquier persona.</li>    <li class='mb-3'>La sexualidad se expresa en la relación que mantenemos con las otras personas y con nuestro propio cuerpo.</li></ul>",
+            "banner": "/assets/banners/articles/respetar-tu-cuerpo-y-el-de-los-y-las-demas.jpg",
+            "url":"/como-me-siento/amigxs-o-novixs/violencia/violencia-pareja/respetar-tu-cuerpo",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Consentimiento",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://youtu.be/gRzG-AyE76E",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Autocuidado y prevención de la violencia",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/VZt1_qriSmU",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        },
+        {
+            "title":"Relaciones saludables vs. relaciones no saludables",
+            "thumbail": "",
+            "content_preview": "Tener sentimientos románticos y sexuales por otra persona de tu misma edad es totalmente normal durante la pubertad. También es totalmente normal si no llegaras a experimenta sentimientos románticos o sexuales. Tu puedes decidir si quieres estar en una relación con alguien o no.",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/lie2l7jWWkU",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FF3366"
+        }
+    ],
+
+
+    "amor_y_relaciones": [
+        {
+            "title":"¿Qué es el deseo sexual?",
+            "thumbail": "/assets/deseoSexual.jpg",
+            "content_preview": "El deseo sexual se puede experimentar de diferentes maneras.  El deseo sexual es una emoción, un impulso, una fuerza que nos mueve al encuentro íntimo con nosotros o nosotras mismas o con otras personas..",
+            "url": "/como-me-siento/amigxs-o-novixs/amor-yRelaciones/deseo-sexual",
+            "content": "<h6>¿Qué es el deseo sexual? </h6> <p>El deseo sexual se puede experimentar de diferentes maneras.</p> <ul class='pl-3'> <li class='mb-3'> Podemos decidir experimentar nuestra sexualidad a través de diversas prácticas sexuales o también aplazarlo.</li> <li class='mb-3'>Podemos sentir deseo al ver a alguien, al estar en contacto con otra persona, al imaginar y también al recordar, nuestro cuerpo reacciona ante un estímulo cualquiera y en la adolescencia esto ocurre con frecuencia. Nuestros cuerpos reaccionan de diferentes maneras, nuestra respiración cambia, el pulso, puede haber erección en los pezones, el clítoris, el pene, lubricación en la vagina, etc.</li> <li class='mb-3'>Cada persona tiene derecho a sentir, vivir y expresar su deseo sexual con respeto y en libertad, y es responsabilidad de todas las personas hacer que esto sea posible.</li> <li class='mb-3'>Existen muchas maneras de experimentar relaciones sexuales, como puede ser una caricia suave, el coito vaginal o anal, besos, ver y sentir lo que te gusta, un recuerdo, masturbarte, el sexo oral e infinidad de posibilidades más.</li> <li class='mb-3'>La masturbación es una práctica sexual normal y saludable a una edad en la que se tenga conocimiento respecto a la sexualidad,  para muchas personas jóvenes, suele ser una de las principales maneras de empezar a experimentar y explorar con sus cuerpos. Para poder descubrir sensaciones placenteras y satisfacer nuestro deseo sexual la masturbación es una conducta que para muchas puede ser agradable y satisfactoria, mientras que para otras no. Lo importante es que cada persona se sienta libre para elegir y experimentar con libertad con sus cuerpos.</li> <li class='mb-3'>Cuando decides conjuntamente tener una relación sexual segura con la persona que te gusta o con tu novio o novia, comienza una relación en confianza para poder imaginar, fantasear, de sentirnos queridos y queridas, deseados y deseadas, etc.</li> </ul>  ",
+            "banner": "/assets/deseoSexual.jpg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Me gusta alguien del mismo sexo",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "HOY ya nadie considera que la homosexualidad sea un tema tabú, como sucedía hace décadas. ¡Y pobre del que se atreva a criticar ese estilo de vida! Seguro que todos se volverán en su contra. Amy, de 16 años, dice:",
+            "url":"/under-construction",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Solo quiero un free",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Hasta hace unos meses yo era ENEMIGA de los frees. Muchos me lo propusieron y los mandé directito a la goma. Pensaba: Un free? Qué es eso? ",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Amistades Sexuales (sex friends, sex buddies)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "La posibilidad de tener sexo con un amigo o amiga es siempre un tema tabú. ",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Ghosting (revisar)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Existen muchas formas de acabar una relación, pero si el ghosting comienza a ser algo tan común quizá se deba a que la tecnología también ha cambiado la forma en que nos vinculamos los unos con los otros",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Sindrome de Sugar Daddy ",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Hombres y mujeres exitosos que saben lo que quieren. Están impulsados y disfrutan de una compañía atractiva a su lado. El dinero no es un problema, por lo que son generosos cuando se trata de apoyar a un bebé de azúcar.",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Lover Boy",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "El llamado “Lover Boy” es un proxeneta de nueva generación, que actúa como un verdadero predador sexual con el objetivo de obtener dinero fácil",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"No me peló",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "A veces no se trata de que es lo que estás haciendo mal, sino que la otra persona no se decide a dar el paso que sigue contigo; los factores pueden ser muchos yo podría enlistarlos de la siguiente manera:",
+            "url": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Como reconocer una relación Tóxica",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Una relación tóxica es una en la que al menos una persona se siente controlada, manipulada o constantemente menospreciada",
+            "url": "https://es.wikihow.com/reconocer-una-relaci%C3%B3n-t%C3%B3xica",
+            "content": "Una relación tóxica es una en la que al menos una persona se siente controlada, manipulada o constantemente menospreciada. Puedes estar en una relación tóxica con casi cualquier persona: una pareja sentimental, un amigo, un compañero de cuarto, un familiar o incluso un compañero de trabajo. Reconoce las señales de una relación tóxica para que puedas alejarte de ella o lidiar con esa persona.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "wikihow",
+            "bgColor":"#FF3366"
+        }
+    ],
+
+    "violencia": [
+        {
+            "title":"¿Qué pasaría si los hombres fueran mujeres?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Si te han enseñado a ser hombre, pensando que el cuerpo de las mujeres te pertenece, y que las puedes humillar, utilizar o aprovecharte de ellas, DETENTE.",
+            "content": "Si te han enseñado a ser hombre, pensando que el cuerpo de las mujeres te pertenece, y que las puedes humillar, utilizar o aprovecharte de ellas, DETENTE.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-pasaria-si-los-hombres-fueran-mujeres",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"!Decir que no¡",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "No hagas nada que no quieras. Atrévete a decir ‘no’ o ‘para’, así sabrán que no quieres. Es común en…",
+            "url": "https://hablemosdesexo.com/hacer-el-amor/decir-que-no",
+            "content": "A veces está bien decir que no, por ejemplo si alguien te gusta menos de lo que pensabas en un principio. O si no estás listo para tener relaciones sexuales con alguien. Pero negarse suena más fácil de lo que es en realidad. ¿Cómo hacerlo?",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"¿Qué son los micromachismos?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Existe un machismo que por su menor intensidad pasa desapercibido, lo vivimos día a día y por lo tanto, cada…",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-son-los-micromachismos",
+            "content": "Para empezar, el machismo es el conjunto de actitudes y prácticas aprendidas hetero-sexistas que favorecen el mantenimiento de órdenes sociales en que las mujeres son sometidas o discriminadas, ya sea por personas de su mismo sexo u otro.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Machismos y sus tipos",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "Para empezar, el machismo es el conjunto de actitudes y prácticas aprendidas hetero-sexistas que favorecen el mantenimiento de órdenes sociales en que las mujeres son sometidas o discriminadas, ya sea por personas de su mismo sexo u otro.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Acoso Sexual",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Una pareja que no escucha cuando le dices que no tienes deseos. Y por supuesto, la agresión sexual, o violación…",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual",
+            "content": "El comportamiento sexual indeseado se puede referir a un sinfín de cuestiones. Un muchacho que te roza en la discoteca. Una chica que muestra una foto erótica tuya a todo el mundo.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Grooming",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Relaciones Abusivas",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "El abuso viene en muchas formas: física, emocional o sexual. Las relaciones abusivas pueden ser difíciles de reconocer...",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/relaciones-abusivas",
+            "content": "En una relación violenta suele darse falta de respeto, desconfianza y poca o nula consideración hacia la pareja. También puede que te aísles de tu ambiente social y familiar.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Acoso en manada",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Violencia Digital",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Levanta la voz",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "En una relación, no tienes que tener sexo con tu pareja cuando él o ella quiera, si te pide tener…",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/levanta-la-voz",
+            "content": "Existen muchos mitos alrededor del sexo y la sexualidad – por ejemplo, que el hombre sólo quiere a la mujer por el sexo, o que el hombre siempre quiere sexo. Todos somos distintos. Hay quienes quieren sexo una vez por semana, otros dos veces al día. Y no hay bueno o malo. Se trata de encontrar lo que le funcione a ti y a tu pareja.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Acoso cibernético",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        }
+    ],
+
+    "emociones": [
+        {
+            "title":"Siento celos, ¿es normal?",
+            "thumbail": "/assets/icon/Ccelosnota.PNG",
+            "content_preview": "Un poco de celos es común si tienes sentimientos fuertes hacia alguien. Pero cuando los celos van demasiado lejos, podría…",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/problemas-de-relacion/celos-y-otros-problemas",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Corté con mi pareja ¿y ahora que sigue?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"¿Qué es el deseo sexual?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Autoestima",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Autocontrol Emocional (enfrentamientos)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Inteligencia Emocional",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"No puedo superar esto",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        }
+    ],
+
+    "algo_No_AndaBien": [
+        {
+            "title":"No puedo concentrarme , me distraigo mucho",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Me quiero matar (suicidio)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Inseguridad Personal",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Rendimiento académico",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Bullying",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"A veces me lastimo (autolesiones)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"¿Cómo se si tengo problemas con mi alimentación?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Anorexia y Bulimia",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Que hacer si todo te da igual",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        }
+    ],
+
+    "adicciones": [
+        {
+            "title":"Adicciones sin sustancia",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        },
+        {
+            "title":"Adicciones con sustancias",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#1AA086"
+        }
+    ],
+    "adiccionesZombi": [
+        {
+            "title":"Adicciones y juventud",
+            "thumbail": "",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"https://balancemx.org/sites/default/files/resources/files/%5Bnode%3Anid%5D/PAE.pdf",
+            "publish_date": "01/01/2020",
+            "author": "Cesar Galicia",
+            "bgColor": "#1AA086"
+        }
+    ],
+
+    "weba": [
+        {
+            "title":"No estudio y no trabajo, ¿qué hago?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Quiero ayudar y no se como hacerlo",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "url":"/under-construction",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ],
+
+    "ya_No_aguanto": [
+        {
+            "title":"¡Decir que no!",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "No hagas nada que no quieras. Atrévete a decir 'no' o 'para', así sabrán que no quieres. Es común en el sexo que sucedan cosas que no te agraden. Habla de ello.",
+            "content": "A veces está bien decir que no, por ejemplo si alguien te gusta menos de lo que pensabas en un principio. O si no estás listo para tener relaciones sexuales con alguien. Pero negarse suena más fácil de lo que es en realidad. ¿Cómo hacerlo?",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://hablemosdesexo.com/hacer-el-amor/decir-que-no",
+            "author": "Hablemos de sexo y amor",
+            "bgColor": "#6A30B5"
+        },
+        {
+            "title":"Acoso Sexual",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Vivimos en un mundo donde no todos/as tratan a los demás con respeto, especialmente cuando se trata de sus cuerpos. Aquí hablamos sobre qué es el acoso sexual y cómo luchar con esta situación tan constante y naturalizada en nuestros paises.",
+            "content": "El comportamiento sexual indeseado se puede referir a un sinfín de cuestiones. Un muchacho que te roza en la discoteca. Una chica que muestra una foto erótica tuya a todo el mundo.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual",
+            "author": "Mirada Joven",
+            "bgColor": "#6A30B5"
+        },
+        {
+            "title":"Acosos: cibernético, laboral,etc",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#6A30B5"
+        },
+        {
+            "title":"Levanta la voz",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "En una relación, no tienes que tener sexo con tu pareja cuando él o ella quiera, si te pide tener…",
+            "url":"https://hablemosdesexo.com/amor-y-relaciones/levanta-la-voz",
+            "content": "Existen muchos mitos alrededor del sexo y la sexualidad – por ejemplo, que el hombre sólo quiere a la mujer por el sexo, o que el hombre siempre quiere sexo. Todos somos distintos. Hay quienes quieren sexo una vez por semana, otros dos veces al día. Y no hay bueno o malo. Se trata de encontrar lo que le funcione a ti y a tu pareja.",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Violencia Digital",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#6A30B5"
+        },
+        {
+            "title":"Me quiero matar (suicidio)",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#6A30B5"
+        }
+    ],
+
+    "la_Depre": [
+        {
+            "title":"No puedo superar esto :(",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#42DABF"
+        },
+        {
+            "title":"Que hacer si todo te da igual",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#42DABF"
+        }
+    ],
+
+    "participando": [
+        {
+            "title":"Quiero ayudar y no se como hacerlo",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        },
+        {
+            "title":"No estudio y no trabajo, ¿qué hago?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "habilidadesOld": [
+        {
+            "title":"Habilidades Sociales",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "derechos_humanos": [
+        {
+            "title":"¿Qué son los derechos humanos?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#F97F06"
+        }
+    ],
+
+    "que_pasaria_si": [
+        {
+            
+            "title":"¿Qué pasaría si los hombres fueran mujeres?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Si te han enseñado a ser hombre, pensando que el cuerpo de las mujeres te pertenece, y que las puedes humillar, utilizar o aprovecharte de ellas, DETENTE.",
+            "content": "Si te han enseñado a ser hombre, pensando que el cuerpo de las mujeres te pertenece, y que las puedes humillar, utilizar o aprovecharte de ellas, DETENTE.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://hablemosdesexo.com/amor-y-relaciones/acoso-sexual/que-pasaria-si-los-hombres-fueran-mujeres",
+            "author": "Hablemos de sexo y amor",
+            "bgColor":"#FF3366"
+        }
+    ],
+
+    "miCuerpo": [
+        { 
+            "title":"Cómo vivir con VIH o sida",
+            "thumbail": "",
+            "content_preview": "Si recientemente te diagnosticaron VIH o sida, es perfectamente normal que te sientas como si el mundo te cayese encima. Sin embargo, debes saber que, en estos días, un diagnóstico de VIH o de sida no es una sentencia de muerte. Si tomas tu medicación correctamente y si cuidas de tu salud física y mental, entonces podrás vivir una vida normal y feliz.",
+            "content": "Aunque, indudablemente, deberás lidiar con el dolor físico y con el costo mental de tener que contarle a la gente sobre tu condición, todavía podrás tener una vida larga y significativa por delante si asumes la actitud correcta. Actualmente, más de 1,1 millones de norteamericanos viven con el VIH; por ello, una de las cosas más importantes que debes saber es que, sin importar que tan asustado te sientas, no estás solo.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://es.wikihow.com/vivir-con-VIH-o-sida",
+            "author": "WikiHow",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"La Prevención del embarazo en la adolescencia.",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Es importante saber cómo prevenir un embarazo en la adolescencia. Para evitar un embarazo no deseado, precipitado o sorpresivo",
+            "content": "Si tienes sospechas que estás embarazada por que tu menstruación se ha detenido o si manchas muy poco en comparación con lo acostumbrado sal de dudas y hazte una prueba de embarazo.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://miradajoven.org/2019/12/20/hola-mundo/",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"¿Qué es el deseo sexual?",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "El deseo sexual se puede experimentar de diferentes maneras.   El deseo sexual es una emoción, un impulso, una fuerza",
+            "content": "Cuando decides conjuntamente tener una relación sexual segura con la persona que te gusta o con tu novio o novia, comienza una relación en confianza para poder imaginar, fantasear, de sentirnos queridos y queridas, deseados y deseadas, etc.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://miradajoven.org/2019/12/26/que-es-el-deseo-sexual/",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Órganos genitales femeninos",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Los órganos genitales femeninos tienen diferentes características. Se clasifican como órganos internos o externos. ÓRGANOS INTERNOS: Vagina: Estructura en forma",
+            "content": "Los órganos genitales femeninos tienen diferentes características. Se clasifican como órganos internos o externos.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://miradajoven.org/2019/12/27/organos-genitales-femeninos/",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Órganos genitales masculinos",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Los órganos genitales masculinos son catalogados como órganos internos o externos. ÓRGANOS INTERNOS: Testículos: Órganos sexuales masculinos encargados de generar",
+            "content": "Los órganos genitales mascuinos tienen diferentes características. Se clasifican como órganos internos o externos.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://miradajoven.org/2019/12/27/organos-genitales-femeninos/",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Disfunción Eréctil",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Órganos genitales masculinos",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": "Los órganos genitales masculinos son catalogados como órganos internos o externos. ÓRGANOS INTERNOS: Testículos: Órganos sexuales masculinos encargados de generar",
+            "content": "Los órganos genitales mascuinos tienen diferentes características. Se clasifican como órganos internos o externos.",
+            "banner": "/assets/icon/covid.svg",
+            "url": "https://miradajoven.org/2019/12/27/organos-genitales-femeninos/",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Menstruación",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"Respetar tu cuerpo y el de los demás",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        },
+        {
+            "title":"¿Qué sucede cuando tienes sexo por primera vez? MASC",
+            "thumbail": "/assets/icon/covid.svg",
+            "content_preview": " nebula is an interstellar cloud of dust, hydrogen,helium and other ionized gases.",
+            "content": "",
+            "banner": "/assets/icon/covid.svg",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor":"#FF3366"
+        }
+    ],
+
+    "salonEventos": [
+        {
+            "title":"Participa en la Conferencia Modelo de las Naciones Unidas #75YAMUN",
+            "thumbail": "/assets/banners/convocatoria-75YAMUN.jpg",
+            "content_preview": "No te pierdas la oportunidad de experimentar la primera asamblea general de la ONU.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.globalmuners.org/75yamun/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ],
+
+    "proximosEventos": [
+        {
+            "title":"Participa en la Conferencia Modelo de las Naciones Unidas #75YAMUN",
+            "thumbail": "/assets/banners/convocatoria-75YAMUN.jpg",
+            "content_preview": "No te pierdas la oportunidad de experimentar la primera asamblea general de la ONU.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.globalmuners.org/75yamun/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ],
+
+    "yoAgenteCambio": [
+        {
+            "title":"Hacia una perspectiva de juventud",
+            "thumbail": "",
+            "content_preview": "Principios de la Perspectiva de Juventud, ¿qué es ser joven en México?",
+            "content": "",
+            "banner": "",
+            "url":"https://www.gob.mx/cms/uploads/attachment/file/484348/Hacia_una_Perspectiva_de_Juventud.pdf",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"¿Qué es el Enfoque de Juventudes?",
+            "thumbail": "/assets/banners/articles/enfoque-juventudes.jpg",
+            "content_preview": "El Enfoque de Juventudes tiene reconocimiento internacional y busca que las juventudes sean reconocidas como personas clave para el desarrollo de sus países.",
+            "content": "<h5>¿Qué es el Enfoque de Juventudes?</h5><p>En Elige Red de Jóvenes por los Derechos Sexuales y Reproductivos trabajamos desde la perspectiva feminista y de juventudes, las cuales incluimos de manera transversal en todas nuestras acciones y proyectos.</p><p>El <b>Enfoque de Juventudes</b> se refiere a la perspectiva que busca romper los moldes de lo que supone ser una persona joven, reconociéndonos como personas activas y sujetas de derecho, lo que implica que nuestros derechos deben ser reconocidos, respetados y garantizados en todo momento, integrando también el enfoque de género, pues reconoce que hombres y mujeres tienen igual reconocimiento y garantía de derechos y oportunidades.</p><p>De acuerdo con el INEGI, en México hay más de 37 millones de personas jóvenes entre los 12 y los 29 años, lo cual representa uno de los grupos etarios más grandes del país. Es fundamental que el Estado y sus instituciones reconozcan la realidad, las necesidades y los aportes de las juventudes para la implementación de políticas públicas.</p><p>El Enfoque de Juventudes tiene reconocimiento internacional, como en la Convención Iberoamericana de los Derechos de las Personas Jóvenes, que las reconoce “como sujetos de derechos, actores estratégicos del desarrollo y personas capaces de ejercer responsablemente los derechos y libertades”. Es decir, hay que mirar a las juventudes no como una población vulnerable, sino como personas clave para el desarrollo de sus países. Es importante recordar que el gobierno de México está en deuda con las juventudes, pues aunque firmó este convenio desde 2005, aún no lo ha ratificado, esto quiere decir que no está obligado a garantizar los derechos ahí establecidos.</p><p>Hablamos en plural de las juventudes porque reconocemos en las personas jóvenes diversas identidades y expresiones socioculturales. Este enfoque también se basa en el principio de igualdad y no discriminación, pues los derechos humanos no se condicionan bajo ninguna circunstancia, la apariencia física, la orientación sexual, los recursos económicos o cualquier otra no son motivo de discriminación.</p><p>“Lxs jóvenes son flojxs, apáticxs, rebeldes e irresponsables”, son frases que es común escuchar. Alrededor de las juventudes hay prejuicios y estereotipos, muchos de ellos expresados desde el adultocentrismo, es decir, la idea de que solo por tener cierta edad, roles sociales y económicos, algunas personas son superiores a otras, ya que la edad suele ser expresión de validación y experiencia.</p><p>Bajo esta idea las personas jóvenes enfrentan un problema de discriminación estructural cometida por varios actores como el gobierno, que no reconoce ni garantiza plenamente sus derechos, la sociedad y el sector privado, quienes mantienen y reproducen estereotipos. El Enfoque de Juventudes busca acabar con esos estereotipos y que se reconozca la autonomía de las personas jóvenes y los aportes que pueden hacer a la sociedad desde sus propias capacidades.</p><p>Las juventudes no son solo el futuro del país, sino que están presentes, organizándose, criticando, tomando espacios y alzando la voz cada que es necesario; su valor no radica en el potencial de lo que pueden llegar a ser, sino de lo que son y están haciendo. Resulta cada vez más necesario asumir nuestra identidad como personas jóvenes, activas y sujetas de derecho, y exigir a las instituciones incluirnos y abrir espacios de participación al momento de pensar el desarrollo del país.</p><br><p>*Fuente: Consejo de la Persona Joven y Fondo de Población de las Naciones Unidas</p>",
+            "banner": "/assets/banners/articles/enfoque-juventudes.jpg",
+            "url":"/como-me-siento/participa/generacion-2030/yo-agente-de-cambio/que-es-el-enfoque-de-juventudes",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Planificador de proyectos",
+            "thumbail": "",
+            "content_preview": "¡Pon esas ideas en acción con el planificador de proyectos juveniles! Revisa esta guía que te enseña paso a paco a diseñar y ejecutar proyectos centrados en generar un impacto social.",
+            "content": "",
+            "banner": "",
+            "url":"https://es.unesco.org/youth/toptips",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Guía de los vagos para salvar el mundo",
+            "thumbail": "/assets/banners/articles/guia-de-vagos.gif",
+            "content_preview": "Hay cosas muy sencillas que podemos hacer día a día y que si muchas/os nos sumamos podemos hacer grandes cambios.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.un.org/sustainabledevelopment/es/takeaction/",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ],
+
+    "aprende": [
+        {
+            "title":"¿Qué son los Objetivos de Desarrollo Sostenible (ODS)?",
+            "thumbail": "",
+            "content_preview": "Conoce los Objetivos de Desarrollo Sostenible (ODS), una agenda con los retos más importantes al 2030.",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/r5v7Klr7cNs",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"¿Qué es la Agenda 2030 y cómo alcanzar los Objetivos de Desarrollo Sostenible?",
+            "thumbail": "",
+            "content_preview": "Conoce la Agenda 2030 y los ODS en su contexto global y local, y de qué manera nos podemos ponerlos en acción para crear una sociedad más informada y consciente.",
+            "content": "",
+            "banner": "",
+            "url":"https://youtu.be/MCKH5xk8X-g",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Los retos de los Objetivos de Desarrollo Sostenible",
+            "thumbail": "",
+            "content_preview": "Curso sobre sustentabilidad que se enfocará en los retos de los Objetivos de Desarrollo Sostenible (ODS)",
+            "content": "",
+            "banner": "",
+            "url":"https://www.edx.org/es/course/ods-en-la-agenda-2030-de-las-naciones-unidas-retos",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Acuerdos globales para el desarrollo sostenible",
+            "thumbail": "",
+            "content_preview": "Se expondrá el nuevo marco global para el desarrollo sostenible, su relevancia, implicaciones y oportunidades.",
+            "content": "",
+            "banner": "",
+            "url":"https://es.coursera.org/learn/acuerdos-globales",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Objetivos de Desarrollo Sostenible de América Latina y el Caribe",
+            "thumbail": "",
+            "content_preview": "Este curso te ayudará a analizar las problemáticas latinoamericanas desde la perspectiva de los Objetivos de Desarrollo Sostenible (Dilemas, tensiones y contradicciones)",
+            "content": "",
+            "banner": "",
+            "url":"https://es.coursera.org/learn/objetivos-desarrollo-sostenible",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Cursos de Desarrollo Sostenible SDG Academy",
+            "thumbail": "",
+            "content_preview": "30 cursos en inglés sobre temas de desarrollo sostenible.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.edx.org/school/sdgacademyx?utm_medium=partner-marketing&utm_source=webpage&utm_campaign=sdgacademyx&utm_content=continue_with_edx",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        },
+        {
+            "title":"Profundiza tu conocimiento de los ODS",
+            "thumbail": "",
+            "content_preview": "¿Te gustaría profundizar en alguno de los Objetivos de Desarrollo Sostenible? Aquí 80 cursos en inglés para elegir. ",
+            "content": "",
+            "banner": "",
+            "url":"https://puentesdigitales.com/2018/07/30/80-cursos-gratuitos-sobre-los-objetivos-de-desarrollo-sostenible-de-la-onu/",
+            "publish_date": "29/10/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ],
+
+    "tomaAccion": [
+        {
+            "title":"Participa en la Conferencia Modelo de las Naciones Unidas #75YAMUN",
+            "thumbail": "/assets/banners/convocatoria-75YAMUN.jpg",
+            "content_preview": "No te pierdas la oportunidad de experimentar la primera asamblea general de la ONU.",
+            "content": "",
+            "banner": "",
+            "url":"https://www.globalmuners.org/75yamun/",
+            "publish_date": "01/01/2020",
+            "author": "Mirada Joven",
+            "bgColor": "#FCC103"
+        }
+    ]
+}

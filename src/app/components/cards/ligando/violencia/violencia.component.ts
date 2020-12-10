@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import  *  as  contents  from  'src/assets/contents/contents.data.json';
 import { PathRoute } from 'src/app/components/common/article/article.component';
 import { DataTree } from 'src/app/data/data-tree';
+import { DataTreeNahua } from 'src/app/data/data-treenahua';
 
 @Component({
   selector: 'app-violencia',
@@ -10,10 +11,20 @@ import { DataTree } from 'src/app/data/data-tree';
 })
 export class ViolenciaComponent implements OnInit {
 
-  cards = DataTree.violencia;
   path:PathRoute[];
   
-  constructor() { }
+  cards;
+  lenguaje;
+  
+  constructor() {
+    //Seleccion de lenguaje
+    this.lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+    if(this.lenguaje == 'esp'){
+      this.cards = DataTree.violencia;
+    }else{
+      this.cards = DataTreeNahua.violencia;
+    }
+   }
 
   ngOnInit() {
     this.path = [

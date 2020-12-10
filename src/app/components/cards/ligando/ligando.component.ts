@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataTree } from 'src/app/data/data-tree';
-
+import { DataTreeNahua } from 'src/app/data/data-treenahua';
 @Component({
   selector: 'app-ligando',
   templateUrl: './ligando.component.html',
@@ -8,9 +8,18 @@ import { DataTree } from 'src/app/data/data-tree';
 })
 export class LigandoComponent implements OnInit {
 
-  cards = DataTree.ligando;
+  cards;
+  lenguaje;
   
-  constructor() { }
+  constructor() {
+    //Seleccion de lenguaje
+    this.lenguaje =  (String)(localStorage.getItem('lang') || 'esp');
+    if(this.lenguaje == 'esp'){
+      this.cards = DataTree.ligando;
+    }else{
+      this.cards = DataTreeNahua.ligando;
+    }
+   }
 
   ngOnInit() {}
 

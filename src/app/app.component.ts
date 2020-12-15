@@ -1,5 +1,6 @@
 import { Component, OnInit, HostListener, ViewChild, ElementRef, Renderer2, OnDestroy } from '@angular/core';
 import { NbSidebarService, NbSidebarComponent } from '@nebular/theme';
+import { TranslateService } from '@ngx-translate/core';
 import { Subscription } from 'rxjs';
 import { SeoService } from './services/seo.service';
 
@@ -31,8 +32,10 @@ export class AppComponent implements OnInit,OnDestroy{
     }
   }
   
-  constructor(private sidebarService: NbSidebarService, private seo:SeoService) {
+  constructor(private sidebarService: NbSidebarService, private seo:SeoService, private translateService: TranslateService) {
     this.seo.updateTitle();
+    this.translateService.setDefaultLang('esp');
+    this.translateService.use(localStorage.getItem('lang') || 'esp');
   }
 
   ngOnInit(): void {

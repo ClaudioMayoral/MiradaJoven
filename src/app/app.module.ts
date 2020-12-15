@@ -38,7 +38,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { environment } from 'src/environments/environment';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { VisitCounterComponent } from './components/common/visit-counter/visit-counter.component';
 import { AboutusComponent } from './components/BannersContent/aboutus/aboutus.component';
 import { CovidComponent } from './components/BannersContent/covid/covid.component';
@@ -95,7 +95,15 @@ import { AgenteCambioComponent } from './components/cards/weba/generacion-2030/y
 import { TomaAccionComponent } from './components/cards/weba/generacion-2030/toma-accion/toma.accion.component';
 import { EnfoqueJuventudesComponent } from './articles/enfoque-de-juventudes/enfoque-juventudes.component';
 import { AprendeComponent } from './components/cards/weba/generacion-2030/aprende/aprende.component';
-import { TraductorComponent } from './traductor/traductor.component';
+import { TraductorComponent } from './components/traductor/traductor.component';
+import { NgxAudioPlayerModule } from 'ngx-audio-player';
+import {TranslateModule, TranslateLoader} from '@ngx-translate/core';
+import {TranslateHttpLoader} from '@ngx-translate/http-loader';
+
+export function HttpLoaderFactory(http: HttpClient) {
+  return new TranslateHttpLoader(http);
+}
+
 
 const cookieConfig:NgcCookieConsentConfig = {
   cookie: {
@@ -231,10 +239,21 @@ const cookieConfig:NgcCookieConsentConfig = {
     HttpClientModule,
     InfiniteScrollModule,
    // NgcCookieConsentModule.forRoot(cookieConfig),
-    ResponsiveModule.forRoot()
+    ResponsiveModule.forRoot(),
+    //Audio
+    NgxAudioPlayerModule,
+    //Traductor
+    TranslateModule.forRoot({
+      loader: {
+          provide: TranslateLoader,
+          useFactory: HttpLoaderFactory,
+          deps: [HttpClient]
+      }
+  })
   ],
   providers: [
-    NbSidebarService
+    NbSidebarService,
+    HttpClient
    ],
   bootstrap: [AppComponent]
 })

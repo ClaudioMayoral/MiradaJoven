@@ -47,16 +47,16 @@
           <div class="col px-0">
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/aliados']">Nuestros aliados/as</a>
+                <a class="nav-link" [routerLink]="['/aliados']">{{'nuestrosAliados' | translate}}</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/acerca-nosotros']">Acerca de Mirada Joven</a>
+                <a class="nav-link" [routerLink]="['/acerca-nosotros']">{{'acercaDe' | translate}}</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/concurso']">Concurso de Expresión</a>
+                <a class="nav-link" [routerLink]="['/concurso']">{{'concursoExpresion' | translate}}</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/politicas-privacidad']">Políticas de privacidad</a>
+                <a class="nav-link" [routerLink]="['/politicas-privacidad']">{{'politicasPrivacidad' | translate}}</a>
               </li>
             </ul>
           </div>
@@ -73,12 +73,12 @@
   
         <div class="row text-center">
           <div class="col">
-            <p>Contáctanos: <a class="text-dark"></a></p>
+            <p>{{'contactar' | translate}} <a class="text-dark"></a></p>
             <a href="mailto:hola@miradajoven.org">
             <nb-icon icon="email"  style="margin-right: auto; margin-left: auto; font-size: 3rem; color:white"></nb-icon>
           </a>
           <div class="col">
-            <h5 class="card-title">¡Síguenos !</h5>
+            <h5 class="card-title">{{'seguir' | translate}}</h5>
             <div class="row d-flex justify-content-between">
               <div class="col-auto">
                   <a href="https://www.facebook.com/MiradaJovenOficial/">
@@ -109,7 +109,7 @@
           </div>
             <hr style="border-top: 2px solid white;">
             
-            <a class="mb-0" [routerLink]="['/politicas-privacidad']">Aviso de privacidad</a>
+            <a class="mb-0" [routerLink]="['/politicas-privacidad']">{{'avisoPrivacidad' | translate}}</a>
             <p>Copyright © Mirada Joven 2020</p>
           </div>
         </div>

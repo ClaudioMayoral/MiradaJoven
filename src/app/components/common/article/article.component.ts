@@ -18,6 +18,7 @@ export class ArticleComponent implements OnInit {
   @Input() content:any;
   @Input() path_routes:PathRoute[];
   @Input() current_route:string;
+  @Input() track: Track[];
   current:string;
 
   constructor(public router: Router) { }
@@ -32,15 +33,8 @@ export class ArticleComponent implements OnInit {
   msaapTableHeader: string = 'My Playlist';
   msaapColumnHeader: string = 'My Music';
 
-  msaapPlaylist: Track[] = [
-      {
-          title: 'Prueba local',
-          link: '../../../../assets/audio/25-Señales y proceso de parto.mp3'
-      }
-  ];
     onEnded(event) {
     console.log(event);
-
     this.currentTrack = null;
   }
 

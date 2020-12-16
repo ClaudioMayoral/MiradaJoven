@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { PathRoute } from 'src/app/components/common/article/article.component';
 import { CardsBase } from 'src/app/components/cards/cards.base';
 import { HttpClient } from '@angular/common/http';
+import { Track } from 'ngx-audio-player';
 
 @Component({
   selector: 'app-organos-genitales-femeninos',
@@ -12,6 +13,12 @@ export class OrganosGenitalesFemeninosComponent extends CardsBase implements OnI
 
   path:PathRoute[];
   content:any;
+  track: Track []=[
+    {
+      title: 'Órganos genitales femeninos',
+      link: '../../../../assets/audio/13-Órganos genitales femeninos.mp3'
+    }
+  ];
 
   constructor(http:HttpClient) {
     super(http);

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { PathRoute } from 'src/app/components/common/article/article.component';
 import { CardsBase } from 'src/app/components/cards/cards.base';
 import { HttpClient } from '@angular/common/http';
+import { Track } from 'ngx-audio-player';
 
 @Component({
   selector: 'app-conocer-tu-cuerpo',
@@ -12,6 +13,12 @@ export class ConocerTuCuerpoComponent extends CardsBase implements OnInit {
 
   path:PathRoute[];
   content:any;
+  track: Track []=[
+    {
+      title: 'Conocer tu cuerpo es conocerte a ti mismo',
+      link: '../../../../assets/audio/12-Conocer tu cuerpo es conocerte a ti mismo.mp3'
+    }
+  ];
 
   constructor(http:HttpClient) {
     super(http);

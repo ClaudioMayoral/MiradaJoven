@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { CardsBase } from 'src/app/components/cards/cards.base';
 import { PathRoute } from 'src/app/components/common/article/article.component';
+import { Track } from "ngx-audio-player";
 
 @Component({
   selector: 'app-que-son-infecciones-transmision-sexual',
@@ -12,6 +13,12 @@ export class QueInfeccionesTransmisionSexualComponent extends CardsBase implemen
 
   path:PathRoute[];
   content:any;
+  track: Track []=[
+    {
+      title: 'Qué son las infecciones de transmisión sexual',
+      link: '../../../../assets/audio/19-Qué son las infecciones de transmisión sexual.mp3'
+    }
+  ];
 
   constructor(http:HttpClient) {
     super(http);

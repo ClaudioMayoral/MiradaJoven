@@ -49,7 +49,7 @@
                 </a>
             </div>
             <ngx-audio-player [playlist]="track" [displayTitle]="true" [autoPlay]="false"
-            muted="muted" [displayPlaylist]="true" [pageSizeOptions]="msaapPageSizeOptions" (trackEnded)="onEnded($event)"
+            muted="muted" [displayPlaylist]="false" [pageSizeOptions]="msaapPageSizeOptions" (trackEnded)="onEnded($event)"
                 [expanded]="true" [displayVolumeControls]="false" [disablePositionSlider]="false">
             </ngx-audio-player>  
         </div>

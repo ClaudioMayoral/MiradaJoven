@@ -4,7 +4,6 @@ import { HttpClient } from '@angular/common/http';
 import { CardsBase } from 'src/app/components/cards/cards.base';
 import { Track } from "ngx-audio-player";
 
-
 @Component({
   selector: 'app-deseo-sexual',
   templateUrl: './deseo-sexual.component.html',
@@ -24,7 +23,7 @@ export class DeseoSexualComponent extends CardsBase implements OnInit {
   constructor(http:HttpClient) {
     super(http);
   }
-  
+
   currentTrack: Track = null;
   currentTime: any;
   appendTracksToPlaylistDisable = false;

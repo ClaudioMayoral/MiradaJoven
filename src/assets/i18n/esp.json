@@ -29,5 +29,34 @@
     "concursoExpresion": "Concurso de Expresión",
     "politicasPrivacidad": "Políticas de privacidad",
     "avisoPrivacidad": "Aviso de privacidad",
-    "contactar": "Contáctanos:"
+    "contactar": "Contáctanos:",
+
+
+
+
+    "serviciosAmigables":"Servicios amigables de Salud Sexual y Reproductiva",
+    "acercateServicio": "¡Acércate, este servicio es para ti!",
+    "acercateServicioComplemento": "¡Acércate, este servicio es para ti! Un servicio de salud amigable ofrece una serie de servicios preventivos para las y los adolescentes y jóvenes como tú. Cuenta con un paquete básico de servicios como la disponibilidad de anticonceptivos, consejería, servicios de detección de infecciones de transmisión sexual (ITS), incluyendo la detección del VIH y el embarazo.",
+    "estosServicios": "Estos servicios cuentan con accesibilidad en horarios y ubicación en un ambiente de respeto a tus derechos, tus decisiones y tu autonomía.",
+    "turno": "TURNO:",
+    "distanciaUbicacion": "km de tu ubicación",
+    "tipoAtencion": "TIPO DE ATENCIÓN",
+    "orientacion": "ORIENTACIÓN",
+    "consejera": "CONSEJERA",
+    "atencion": "ATENCIÓN",
+    "psicologica": "PSICOLOGICA",
+    "medica": "MEDICA",
+    "platicas": "PLÁTICAS",
+    "enSSRA": "EN SSRA",
+    "talleres": "TALLERES",
+    "entregaDe": "ENTREGA DE",
+    "anticonceptivos": "ANTICONCEPTIVOS",
+    "atencionDe": "ATENCIÓN DE",
+    "embarazadas": "EMBARAZADAS",
+    "deteccionDe": "DETECCIÓN DE",
+    "its": "ITS",
+    "informacionBrindada": "LA INFORMACIÓN Y/O ATENCIÓN QUE EL CENTRO TE BRINDÓ FUE:",
+    "compartirOpinion": "¡Gracias por compartirnos tu opinión!",
+    "ayudarMejorar": "Para nosotros son muy importantes tus comentarios ya que nos ayudan a mejorar",
+    "otra": "OTRA"
 }

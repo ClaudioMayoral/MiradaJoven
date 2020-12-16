@@ -3,14 +3,18 @@
     <nb-layout-header fixed>
       <nb-layout-column style="width: 100%;">
         <div class="row">
-          <div class="col">
+          <div class="col col-lg-6 col-xs-12">
             <a href="#">
               <img src="/assets/logo.png" width="150px">
             </a>
           </div>
-          
-          <div class="col d-flex align-items-center justify-content-end">
+          <div class="col col-lg-4 col-xs-12 d-flex align-items-center justify-content-end " style="vertical-align:middle;">
+            <span class = "d-flex justify-content-center"> <b>Ahora Disponible en Nahuatl</b>  &nbsp;</span>
             <app-traductor></app-traductor>
+          </div>
+          
+          <div class="col col-lg-2 col-xs-12 d-flex align-items-center justify-content-end">
+            
             
             <a [routerLink]="['/1doc3']">
             <img class="" src="../assets/icon/preguntas.svg" style="height: 1.5rem">

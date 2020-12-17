@@ -12,6 +12,7 @@ export class EnfoqueJuventudesComponent extends CardsBase implements OnInit {
 
   path:PathRoute[];
   content:any;
+  track: any;
 
   constructor(http:HttpClient) {
     super(http);

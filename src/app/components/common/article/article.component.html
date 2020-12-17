@@ -48,10 +48,12 @@
                     <img class="mr-3 my-auto" src="../../../assets/icon/icons8-whatsapp.svg" style="width: 5vw;">
                 </a>
             </div>
-            <ngx-audio-player [playlist]="track" [displayTitle]="true" [autoPlay]="false"
-            muted="muted" [displayPlaylist]="false" [pageSizeOptions]="msaapPageSizeOptions" (trackEnded)="onEnded($event)"
-                [expanded]="true" [displayVolumeControls]="false" [disablePositionSlider]="false">
-            </ngx-audio-player>  
+            <div >
+                <ngx-audio-player [playlist]="track" [displayTitle]="true" [autoPlay]="false"
+                muted="muted" [displayPlaylist]="false" [pageSizeOptions]="msaapPageSizeOptions" (trackEnded)="onEnded($event)"
+                    [expanded]="true" [displayVolumeControls]="false" [disablePositionSlider]="false">
+                </ngx-audio-player> 
+            </div>
         </div>
     
     </div>

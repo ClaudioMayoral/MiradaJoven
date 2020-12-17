@@ -17,7 +17,7 @@ export class TusDerechosComponent extends CardsBase implements OnInit {
     currentTime: any;
     appendTracksToPlaylistDisable = false;
   
-    msaapPageSizeOptions = [7,5];
+    msaapPageSizeOptions = [2];
     track: Track []=[
         {
             title: 'Títulos',

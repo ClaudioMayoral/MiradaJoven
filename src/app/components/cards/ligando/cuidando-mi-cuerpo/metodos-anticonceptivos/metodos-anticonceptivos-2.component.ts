@@ -54,7 +54,7 @@ export class MetodosAnticonceptivos2Component extends CardsBase implements OnIni
         {
             title: 'Métodos permanentes',
             link: '../../../../assets/audio/09-Métodos anticonceptivos-métodos permanentes.mp3'
-        }
+        } 
       ];
   
     // Material Style Advance Audio Player Playlist

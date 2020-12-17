@@ -18,7 +18,7 @@ export class MetodosAnticonceptivosComponent extends CardsBase implements OnInit
     currentTime: any;
     appendTracksToPlaylistDisable = false;
   
-    msaapPageSizeOptions = [9];
+    msaapPageSizeOptions = [5];
     track: Track []=[
         {
             title: 'Anillo vaginal',

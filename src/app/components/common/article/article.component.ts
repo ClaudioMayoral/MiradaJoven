@@ -27,7 +27,7 @@ export class ArticleComponent implements OnInit {
   currentTime: any;
   appendTracksToPlaylistDisable = false;
 
-  msaapPageSizeOptions = [5,10,15];
+  msaapPageSizeOptions = [5,7];
 
   // Material Style Advance Audio Player Playlist
   msaapTableHeader: string = 'My Playlist';

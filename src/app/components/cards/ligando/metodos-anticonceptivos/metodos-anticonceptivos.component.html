@@ -3,3 +3,9 @@
     current_route="Metodos Anticonceptivos"
     [contents]="contents">
 </app-options-notes>
+<div style="position: fixed; bottom: 0px; right: 0px; z-index: 10;">
+    <ngx-audio-player [playlist]="track" [displayTitle]="false" [autoPlay]="false"
+                muted="muted" [displayPlaylist]="true" [pageSizeOptions]="msaapPageSizeOptions" (trackEnded)="onEnded($event)"
+                    [expanded]="false" [displayVolumeControls]="false" [disablePositionSlider]="false">
+    </ngx-audio-player>  
+</div>
